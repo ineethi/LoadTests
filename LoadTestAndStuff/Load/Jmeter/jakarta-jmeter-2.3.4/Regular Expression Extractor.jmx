@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="2.1">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group" enabled="true">
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+          <stringProp name="LoopController.loops">100</stringProp>
+        </elementProp>
+        <stringProp name="ThreadGroup.num_threads">1</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">1</stringProp>
+        <longProp name="ThreadGroup.start_time">1362033135000</longProp>
+        <longProp name="ThreadGroup.end_time">1362033135000</longProp>
+        <boolProp name="ThreadGroup.scheduler">false</boolProp>
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <stringProp name="ThreadGroup.duration"></stringProp>
+        <stringProp name="ThreadGroup.delay"></stringProp>
+      </ThreadGroup>
+      <hashTree>
+        <AuthManager guiclass="AuthPanel" testclass="AuthManager" testname="HTTP Authorization Manager" enabled="true">
+          <collectionProp name="AuthManager.auth_list">
+            <elementProp name="" elementType="Authorization">
+              <stringProp name="Authorization.url"></stringProp>
+              <stringProp name="Authorization.username">EmailCampaign</stringProp>
+              <stringProp name="Authorization.password">test</stringProp>
+              <stringProp name="Authorization.domain"></stringProp>
+              <stringProp name="Authorization.realm"></stringProp>
+            </elementProp>
+          </collectionProp>
+        </AuthManager>
+        <hashTree/>
+        <smartrics.jmeter.sampler.RestSampler guiclass="smartrics.jmeter.sampler.gui.RestGui" testclass="smartrics.jmeter.sampler.RestSampler" testname="Create Group" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="RestSampler.request_body">jsonData={&quot;name&quot;:&quot;test&quot;,&quot;incidence&quot;:100,&quot;createdDate&quot;:&quot;2013-02-27 10:44 pm&quot;,&quot;modifiedDate&quot;:&quot;2013-02-27 10:47 pm&quot;,&quot;status&quot;:&quot;ready&quot;,&quot;recontactStudyOption&quot;:&quot;Y&quot;,&quot;restrictSampleSizeTo&quot;:&quot;asMany&quot;,&quot;recontactMembersBasedOn&quot;:&quot;memberIds&quot;,&quot;recontactMembers&quot;:[11775788,11775789,11775790,11775791,11775792,11775793,11775794,11775795,11775796,11775797,11775798,11775799,11775800,11775801,11775802,11775803,11775804,11775805,11775806,11775807,11775808,11775809,11775810,11775811,11775812,11775813,11775814,11775815,11775816,11775817,11775818,11775819,11775820,11775821,11775822,11775823,11775824,11775825,11775826,11775827,11775828,11775829,11775830,11775831,11775832,11775833,11775834,11775835,11775836,11775837,11775838,11775839,11775840,11775841,11775842,11775843,11775844,11775845,11775846,11775847,11775848,11775849,11775850,11775851,11775852,11775853,11775854,11775855,11775856,11775857,11775858,11775859,11775860,11775861,11775862,11775863,11775864,11775865,11775866,11775867,11775868,11775869,11775870,11775871,11775872,11775873,11775874,11775875,11775876,11775877,11775878,11775879,11775880,11775881,11775882,11775883,11775884,11775885,11775886,11775887,11775888,11775889,11775890,11775891,11775892,11775893,11775894,11775895,11775896,11775897,11775898,11775899,11775900,11775901,11775902,11775903,11775904,11775905,11775906,11775907,11775908,11775909,11775910,11775911,11775912,11775913,11775914,11775915,11775916,11775917,11775918,11775919,11775920,11775921,11775922,11775923,11775924,11775925,11775926,11775927,11775928,11775929,11775930,11775931,11775932,11775933,11775934,11775935,11775936,11775937,11775938,11775939,11775940,11775941,11775942,11775943,11775944,11775945,11775946,11775947,11775948,11775949,11775950,11775951,11775952,11775953,11775954,11775955,11775956,11775957,11775958,11775959,11775960,11775961,11775962,11775963,11775964,11775965,11775966,11775967,11775968,11775969,11775970,11775971,11775972,11775973,11775974,11775975,11775976,11775977,11775978,11775979,11775980,11775981,11775982,11775983,11775984,11775985,11775986,11775987,11775988,11775989,11775990,11775991,11775992,11775993,11775994,11775995,11775996,11775997,11775998,11775999,11776000,11776001,11776002,11776003,11776004,11776005,11776006,11776007,11776008,11776009,11776010,11776011,11776012,11776013,11776014,11776015,11776016,11776017,11776018,11776019,11776020,11776021,11776022,11776023,11776024,11776025,11776026,11776027,11776028,11776029,11776030,11776031,11776032,11776033,11776034,11776035,11776036,11776037,11776038,11776039,11776040,11776041,11776042,11776043,11776044,11776045,11776046,11776047,11776048,11776049,11776050,11776051,11776052,11776053,11776054,11776055,11776056,11776057,11776058,11776059,11776060,11776061,11776062,11776063,11776064,11776065,11776066,11776067,11776068,11776069,11776070,11776071,11776072,11776073,11776074,11776075,11776076,11776077,11776078,11776079,11776080,11776081,11776082,11776083,11776084,11776085,11776086,11776087,11776088,11776089,11776090,11776091,11776092,11776093,11776094,11776095,11776096,11776097,11776098,11776099,11776100,11776101,11776102,11776103,11776104,11776105,11776106,11776107,11776108,11776109,11776110,11776111,11776112,11776113,11776114,11776115,11776116,11776117,11776118,11776119,11776120,11776121,11776122,11776123,11776124,11776125,11776126,11776127,11776128,11776129,11776130,11776131,11776132,11776133,11776134,11776135,11776136,11776137,11776138,11776139,11776140,11776141,11776142,11776143,11776144,11776145,11776146,11776147,11776148,11776149,11776150,11776151,11776152,11776153,11776154,11776155,11776156,11776157,11776158,11776159,11776160,11776161,11776162,11776163,11776164,11776165,11776166,11776167,11776168,11776169,11776170,11776171,11776172,11776173,11776174,11776175,11776176,11776177,11776178,11776179,11776180,11776181,11776182,11776183,11776184,11776185,11776186,11776187,11776188,11776189,11776190,11776191,11776192,11776193,11776194,11776195,11776196,11776197,11776198,11776199,11776200,11776201,11776202,11776203,11776204,11776205,11776206,11776207,11776208,11776209,11776210,11776211,11776212,11776213,11776214,11776215,11776216,11776217,11776218,11776219,11776220,11776221,11776222,11776223,11776224,11776225,11776226,11776227,11776228,11776229,11776230,11776231,11776232,11776233,11776234,11776235,11776236,11776237,11776238,11776239,11776240,11776241,11776242,11776243,11776244,11776245,11776246,11776247,11776248,11776249,11776250,11776251,11776252,11776253,11776254,11776255,11776256,11776257,11776258,11776259,11776260,11776261,11776262,11776263,11776264,11776265,11776266,11776267,11776268,11776269,11776270,11776271,11776272,11776273,11776274,11776275,11776276,11776277,11776278,11776279,11776280,11776281,11776282,11776283,11776284,11776285,11776286,11776287,11776288,11776289,11776290,11776291,11776292,11776293,11776294,11776295,11776296,11776297,11776298,11776299,11776300,11776301,11776302,11776303,11776304,11776305,11776306,11776307,11776308,11776309,11776310,11776311,11776312,11776313,11776314,11776315,11776316,11776317,11776318,11776319,11776320,11776321,11776322,11776323,11776324,11776325,11776326,11776327,11776328,11776329,11776330,11776331,11776332,11776333,11776334,11776335,11776336,11776337,11776338,11776339,11776340,11776341,11776342,11776343,11776344,11776345,11776346,11776347,11776348,11776349,11776350,11776351,11776352,11776353,11776354,11776355,11776356,11776357,11776358,11776359,11776360,11776361,11776362,11776363,11776364,11776365,11776366,11776367,11776368,11776369,11776370,11776371,11776372,11776373,11776374,11776375,11776376,11776377,11776378,11776379,11776380,11776381,11776382,11776383,11776384,11776385,11776386,11776387,11776388,11776389,11776390,11776391,11776392,11776393,11776394,11776395,11776396,11776397,11776398,11776399,11776400,11776401,11776402,11776403,11776404,11776405,11776406,11776407,11776408,11776409,11776410,11776411,11776412,11776413,11776414,11776415,11776416,11776417,11776419,11776420,11776421,11776422,11776423,11776424,11776425,11776426,11776427,11776428,11776429,11776430,11776431,11776432,11776433,11776434,11776435,11776436,11776437,11776438,11776439,11776440,11776441,11776442,11776443,11776444,11776445,11776446,11776447,11776448,11776449,11776450,11776451,11776452,11776453,11776454,11776455,11776456,11776457,11776458,11776459,11776460,11776461,11776462,11776463,11776464,11776465,11776466,11776467,11776468,11776469,11776470,11776471,11776472,11776473,11776474,11776475,11776476,11776477,11776478,11776479,11776480,11776481,11776483,11776484,11776485,11776486,11776487,11776488,11776489,11776490,11776491,11776492,11776493,11776494,11776495,11776496,11776497,11776498,11776499,11776500,11776501,11776502,11776503,11776504,11776505,11776506,11776507,11776508,11776509,11776510,11776511,11776512,11776513,11776514,11776515,11776516,11776517,11776518,11776519,11776520,11776521,11776522,11776523,11776524,11776525,11776526,11776527,11776528,11776529,11776530,11776531,11776532,11776533,11776534,11776535,11776536,11776537,11776538,11776539,11776540,11776541,11776542,11776543,11776544,11776545,11776546,11776547,11776548,11776549,11776550,11776551,11776552,11776553,11776554,11776555,11776556,11776557,11776558,11776559,11776560,11776561,11776562,11776563,11776564,11776565,11776566,11776567,11776568,11776569,11776570,11776571,11776572,11776573,11776574,11776575,11776576,11776577,11776578,11776579,11776580,11776581,11776582,11776583,11776584,11776585,11776586,11776587,11776588,11776589,11776590,11776591,11776592,11776593,11776594,11776595,11776596,11776597,11776598,11776599,11776600,11776601,11776602,11776603,11776604,11776605,11776606,11776607,11776608,11776609,11776610,11776611,11776612,11776613,11776614,11776615,11776616,11776617,11776618,11776619,11776620,11776621,11776622,11776623,11776624,11776625,11776626,11776627,11776628,11776629,11776630,11776631,11776632,11776633,11776634,11776635,11776636,11776637,11776638,11776639,11776640,11776641,11776642,11776643,11776644,11776645,11776646,11776647,11776648,11776649,11776650,11776651,11776652,11776653,11776654,11776655,11776656,11776657,11776658,11776659,11776660,11776661,11776662,11776663,11776664,11776665,11776666,11776667,11776668,11776669,11776670,11776671,11776672,11776673,11776674,11776675,11776676,11776677,11776678,11776679,11776680,11776681,11776682,11776683,11776684,11776685,11776686,11776687,11776688,11776689,11776690,11776691,11776692,11776693,11776694,11776695,11776696,11776697,11776698,11776699,11776700,11776701,11776702,11776703,11776704,11776705,11776706,11776707,11776708,11776709,11776710,11776711,11776712,11776713,11776714,11776715,11776716,11776717,11776718,11776719,11776720,11776721,11776722,11776723,11776724,11776725,11776726,11776727,11776728,11776729,11776730,11776731,11776732,11776733,11776734,11776735,11776736,11776737,11776738,11776739,11776740,11776741,11776742,11776743,11776744,11776745,11776746,11776747,11776748,11776749,11776750,11776751,11776752,11776753,11776754,11776755,11776756,11776757,11776758,11776759,11776760,11776761,11776762,11776763,11776764,11776765,11776766,11776767,11776768,11776769,11776770,11776771,11776772,11776773,11776774,11776775,11776776,11776777,11776778,11776779,11776780,11776781,11776782,11776783,11776784,11776785,11776786,11776787,11776788,11776789,11776790],&quot;criteria&quot;:{&quot;countryId&quot;:254,&quot;languageId&quot;:2}}
+
+</stringProp>
+          <stringProp name="HTTPSampler.method">POST</stringProp>
+          <boolProp name="HTTPSampler.use_keepalive">false</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <stringProp name="RestSampler.base_host">https://p.api.samplemarket.com/projects/65865/groups</stringProp>
+          <stringProp name="RestSampler.resource"></stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="RestSampler.query_string"></stringProp>
+          <stringProp name="RestSampler.request_headers">Accept: application/json
+X-API-VERSION:2
+content-type:application/x-www-form-urlencoded
+</stringProp>
+        </smartrics.jmeter.sampler.RestSampler>
+        <hashTree>
+          <RegexExtractor guiclass="RegexExtractorGui" testclass="RegexExtractor" testname="Regular Expression Extractor" enabled="true">
+            <stringProp name="RegexExtractor.useHeaders">false</stringProp>
+            <stringProp name="RegexExtractor.refname">group_id</stringProp>
+            <stringProp name="RegexExtractor.regex">(\d+)</stringProp>
+            <stringProp name="RegexExtractor.template">$1$</stringProp>
+            <stringProp name="RegexExtractor.default"></stringProp>
+            <stringProp name="RegexExtractor.match_number">1</stringProp>
+          </RegexExtractor>
+          <hashTree/>
+        </hashTree>
+        <smartrics.jmeter.sampler.RestSampler guiclass="smartrics.jmeter.sampler.gui.RestGui" testclass="smartrics.jmeter.sampler.RestSampler" testname="SurveyUrl" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="RestSampler.request_body">jsonData={&quot;surveyUrl&quot;:&quot;http://www.google.com/?id=%%token%%&quot;}
+
+</stringProp>
+          <stringProp name="HTTPSampler.method">PUT</stringProp>
+          <boolProp name="HTTPSampler.use_keepalive">false</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <stringProp name="RestSampler.base_host">https://p.api.samplemarket.com/projects/65865/groups/${group_id}/surveyUrl</stringProp>
+          <stringProp name="RestSampler.resource"></stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="RestSampler.query_string"></stringProp>
+          <stringProp name="RestSampler.request_headers">Accept: application/json
+X-API-VERSION:2
+content-type:application/x-www-form-urlencoded
+</stringProp>
+        </smartrics.jmeter.sampler.RestSampler>
+        <hashTree/>
+        <smartrics.jmeter.sampler.RestSampler guiclass="smartrics.jmeter.sampler.gui.RestGui" testclass="smartrics.jmeter.sampler.RestSampler" testname="Status" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="RestSampler.request_body">jsonData={&quot;status&quot;:&quot;live&quot;}
+
+</stringProp>
+          <stringProp name="HTTPSampler.method">PUT</stringProp>
+          <boolProp name="HTTPSampler.use_keepalive">false</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <stringProp name="RestSampler.base_host">https://p.api.samplemarket.com/projects/65865/groups/${group_id}/status</stringProp>
+          <stringProp name="RestSampler.resource"></stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="RestSampler.query_string"></stringProp>
+          <stringProp name="RestSampler.request_headers">Accept: application/json
+X-API-VERSION:2
+content-type:application/x-www-form-urlencoded
+</stringProp>
+        </smartrics.jmeter.sampler.RestSampler>
+        <hashTree/>
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>true</xml>
+              <fieldNames>false</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+        </ResultCollector>
+        <hashTree/>
+        <ResultCollector guiclass="SummaryReport" testclass="ResultCollector" testname="Summary Report" enabled="true">
+          <boolProp name="ResultCollector.error_logging">false</boolProp>
+          <objProp>
+            <name>saveConfig</name>
+            <value class="SampleSaveConfiguration">
+              <time>true</time>
+              <latency>true</latency>
+              <timestamp>true</timestamp>
+              <success>true</success>
+              <label>true</label>
+              <code>true</code>
+              <message>true</message>
+              <threadName>true</threadName>
+              <dataType>true</dataType>
+              <encoding>false</encoding>
+              <assertions>true</assertions>
+              <subresults>true</subresults>
+              <responseData>false</responseData>
+              <samplerData>false</samplerData>
+              <xml>true</xml>
+              <fieldNames>false</fieldNames>
+              <responseHeaders>false</responseHeaders>
+              <requestHeaders>false</requestHeaders>
+              <responseDataOnError>false</responseDataOnError>
+              <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
+              <assertionsResultsToSave>0</assertionsResultsToSave>
+              <bytes>true</bytes>
+            </value>
+          </objProp>
+          <stringProp name="filename"></stringProp>
+        </ResultCollector>
+        <hashTree/>
+        <CookieManager guiclass="CookiePanel" testclass="CookieManager" testname="HTTP Cookie Manager" enabled="true">
+          <collectionProp name="CookieManager.cookies">
+            <elementProp name="SERVERID" elementType="Cookie" testname="SERVERID">
+              <stringProp name="Cookie.value">SL</stringProp>
+              <stringProp name="Cookie.domain">p.api.samplemarket.com</stringProp>
+              <stringProp name="Cookie.path">/</stringProp>
+              <boolProp name="Cookie.secure">false</boolProp>
+              <longProp name="Cookie.expires">0</longProp>
+              <boolProp name="Cookie.path_specified">true</boolProp>
+              <boolProp name="Cookie.domain_specified">true</boolProp>
+            </elementProp>
+          </collectionProp>
+          <boolProp name="CookieManager.clearEachIteration">true</boolProp>
+          <stringProp name="CookieManager.policy">rfc2109</stringProp>
+        </CookieManager>
+        <hashTree/>
+      </hashTree>
+      <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="false">
+        <stringProp name="ConstantTimer.delay">2000</stringProp>
+      </ConstantTimer>
+      <hashTree/>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>

@@ -1,0 +1,21 @@
+2014/03/07 01:01:23 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: Loading user properties from: D:\jakarta-jmeter-2.3.4\bin\user.properties 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: Loading system properties from: D:\jakarta-jmeter-2.3.4\bin\system.properties 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: Copyright (c) 1998-2009 The Apache Software Foundation 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: Version 2.3.4 r785646 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: java.version=1.7.0_51 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) Client VM 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: os.name=Windows 2003 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: os.arch=x86 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: os.version=5.2 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: file.encoding=UTF8 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: JMeterHome=D:\jakarta-jmeter-2.3.4 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: user.dir  =D:\jakarta-jmeter-2.3.4\bin 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: PWD       =D:\jakarta-jmeter-2.3.4\bin 
+2014/03/07 01:01:23 INFO  - jmeter.JMeter: IP: 10.151.116.115 Name: AMAZON-E2F37860 FullName: 10.151.116.115 
+2014/03/07 01:01:24 INFO  - jmeter.engine.RemoteJMeterEngineImpl: Starting backing engine on 1099 
+2014/03/07 01:01:24 INFO  - jmeter.engine.RemoteJMeterEngineImpl: IP address=10.151.116.115 
+2014/03/07 01:01:24 INFO  - jmeter.engine.RemoteJMeterEngineImpl: Creating RMI registry (server.rmi.create=true) 
+2014/03/07 01:01:24 INFO  - jmeter.engine.RemoteJMeterEngineImpl: Bound to registry on port 1099 

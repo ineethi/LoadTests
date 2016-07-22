@@ -1,0 +1,228 @@
+2016/04/06 11:26:03 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: Loading user properties from: D:\jakarta-jmeter-2.3.4\bin\user.properties 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: Loading system properties from: D:\jakarta-jmeter-2.3.4\bin\system.properties 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: Copyright (c) 1998-2009 The Apache Software Foundation 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: Version 2.3.4 r785646 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: java.version=1.8.0_51 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: os.name=Windows 7 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: os.arch=amd64 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: os.version=6.1 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: JMeterHome=D:\jakarta-jmeter-2.3.4 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: user.dir  =D:\jakarta-jmeter-2.3.4\bin 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: PWD       =D:\jakarta-jmeter-2.3.4\bin 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: IP: 192.168.114.138 Name: GOL05322 FullName: GOL05322.persistent.co.in 
+2016/04/06 11:26:04 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2016/04/06 11:26:05 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/04/06 11:26:05 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/04/06 11:26:05 ERROR - jmeter.gui.action.Help: Couldn't load help file java.io.FileNotFoundException: D:\jakarta-jmeter-2.3.4\printable_docs\usermanual\component_reference.html (The system cannot find the path specified) 
+2016/04/06 11:26:06 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Cannot find .className property for htmlParser, using default 
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is  
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is  
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is  
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is  
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/04/06 11:26:07 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.ParamModifierGui 
+2016/04/06 11:26:07 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.http.modifier.gui.UserParameterModifierGui 
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSampler: Maximum connection retries = 10 
+2016/04/06 11:26:07 INFO  - jmeter.protocol.http.sampler.HTTPSampler: Connection and read timeouts are available on this JVM 
+2016/04/06 11:26:07 WARN  - jmeter.gui.util.MenuFactory: Missing jar? Could not create org.apache.jmeter.visualizers.MailerVisualizer. java.lang.NoClassDefFoundError: javax/mail/MessagingException 
+2016/04/06 11:26:07 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/04/06 11:26:07 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/04/06 11:26:24 INFO  - jmeter.services.FileServer: Default base=D:\jakarta-jmeter-2.3.4\bin 
+2016/04/06 11:26:24 INFO  - jmeter.gui.action.Load: Loading file: D:\API_AUTOMATION_PRODUCTION\4S_API_AUTOMATION_PRODUCTION_iPoll.jmx 
+2016/04/06 11:26:24 INFO  - jmeter.services.FileServer: Set new base=D:\API_AUTOMATION_PRODUCTION 
+2016/04/06 11:26:24 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/04/06 11:26:24 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/04/06 11:26:24 INFO  - jmeter.save.SaveService: Using SaveService properties file version 697317 
+2016/04/06 11:26:24 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.1 
+2016/04/06 11:26:24 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/04/06 11:26:24 INFO  - jmeter.protocol.http.sampler.HTTPSampler2: Local host = GOL05322 
+2016/04/06 11:26:25 INFO  - jmeter.services.FileServer: Set new base=D:\API_AUTOMATION_PRODUCTION 
+2016/04/06 11:26:29 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2016/04/06 11:26:29 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2016/04/06 11:26:29 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/04/06 11:26:29 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(true,*local*) 
+2016/04/06 11:26:29 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Normal Client - Survey Flow. Ramp up = 1. 
+2016/04/06 11:26:29 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:26:29 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2016/04/06 11:26:29 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2016/04/06 11:26:29 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Normal Client - Survey Flow to finish before starting next group 
+2016/04/06 11:26:29 INFO  - jmeter.threads.JMeterThread: Thread started: Normal Client - Survey Flow 1-1 
+2016/04/06 11:26:30 INFO  - jmeter.util.JsseSSLManager: Using default SSL protocol: TLS 
+2016/04/06 11:26:30 INFO  - jmeter.util.JsseSSLManager: SSL session context: per-thread 
+2016/04/06 11:26:30 INFO  - jmeter.util.SSLManager: JmeterKeyStore Location: C:\Users\neethi_thilakan\.keystore 
+2016/04/06 11:26:30 INFO  - jmeter.util.SSLManager: KeyStore created OK, Type: JKS 
+2016/04/06 11:26:30 WARN  - jmeter.util.SSLManager: Keystore file not found, loading empty keystore 
+2016/04/06 11:28:13 ERROR - jmeter.protocol.http.sampler.HTTPSampler: readResponse: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.ipoll.com/dashboard_survey_details.php?TYPE=4S&QGID=java.net.ConnectException:%20Connection%20timed%20out:%20connect 
+2016/04/06 11:28:13 ERROR - jmeter.protocol.http.sampler.HTTPSampler: Cause: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.ipoll.com/dashboard_survey_details.php?TYPE=4S&QGID=java.net.ConnectException:%20Connection%20timed%20out:%20connect 
+2016/04/06 11:28:13 INFO  - jmeter.protocol.http.sampler.HTTPSampler: Error Response Code: 400 
+2016/04/06 11:28:14 ERROR - jmeter.protocol.http.sampler.HTTPSampler: readResponse: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.ipoll.com/ssredirect.php?grpId=java.net.ConnectException:%20Connection%20timed%20out:%20connect&prjId=java.net.ConnectException:%20Connection%20timed%20out:%20connect&clientId=java.net.ConnectException:%20Connection%20timed%20out:%20connect 
+2016/04/06 11:28:14 ERROR - jmeter.protocol.http.sampler.HTTPSampler: Cause: java.io.IOException: Server returned HTTP response code: 400 for URL: https://www.ipoll.com/ssredirect.php?grpId=java.net.ConnectException:%20Connection%20timed%20out:%20connect&prjId=java.net.ConnectException:%20Connection%20timed%20out:%20connect&clientId=java.net.ConnectException:%20Connection%20timed%20out:%20connect 
+2016/04/06 11:28:14 INFO  - jmeter.protocol.http.sampler.HTTPSampler: Error Response Code: 400 
+2016/04/06 11:28:42 WARN  - jmeter.extractor.BSFPostProcessor: Problem in BSF script org.apache.bsf.BSFException: JavaScript Error: Internal Error: org.mozilla.javascript.EcmaError: TypeError: Cannot read property "results" from undefined 
+2016/04/06 11:28:56 INFO  - jmeter.util.BeanShellTestElement: Sleep for 0 milli-seconds 
+2016/04/06 11:30:01 INFO  - jmeter.util.BeanShellTestElement: Sleep for 0 milli-seconds 
+2016/04/06 11:31:07 INFO  - jmeter.threads.JMeterThread: Thread finished: Normal Client - Survey Flow 1-1 
+2016/04/06 11:31:07 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Normal Client - Survey Flow 1-1 
+2016/04/06 11:31:08 INFO  - jmeter.engine.StandardJMeterEngine: Starting 10 threads for group Basic Get. Ramp up = 10. 
+2016/04/06 11:31:08 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:08 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-1 
+2016/04/06 11:31:08 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Basic Get to finish before starting next group 
+2016/04/06 11:31:09 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-2 
+2016/04/06 11:31:09 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-1 
+2016/04/06 11:31:09 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-1 
+2016/04/06 11:31:10 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-3 
+2016/04/06 11:31:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-2 
+2016/04/06 11:31:10 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-2 
+2016/04/06 11:31:11 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-4 
+2016/04/06 11:31:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-3 
+2016/04/06 11:31:11 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-3 
+2016/04/06 11:31:12 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-5 
+2016/04/06 11:31:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-4 
+2016/04/06 11:31:12 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-4 
+2016/04/06 11:31:13 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-6 
+2016/04/06 11:31:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-5 
+2016/04/06 11:31:13 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-5 
+2016/04/06 11:31:14 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-7 
+2016/04/06 11:31:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-6 
+2016/04/06 11:31:14 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-6 
+2016/04/06 11:31:15 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-8 
+2016/04/06 11:31:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-7 
+2016/04/06 11:31:15 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-7 
+2016/04/06 11:31:16 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-9 
+2016/04/06 11:31:16 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-8 
+2016/04/06 11:31:16 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-8 
+2016/04/06 11:31:17 INFO  - jmeter.threads.JMeterThread: Thread started: Basic Get 2-10 
+2016/04/06 11:31:17 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-9 
+2016/04/06 11:31:17 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-9 
+2016/04/06 11:31:18 INFO  - jmeter.threads.JMeterThread: Thread finished: Basic Get 2-10 
+2016/04/06 11:31:18 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Basic Get 2-10 
+2016/04/06 11:31:19 INFO  - jmeter.engine.StandardJMeterEngine: Starting 6 threads for group Profiles and Channels. Ramp up = 6. 
+2016/04/06 11:31:19 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:19 INFO  - jmeter.threads.JMeterThread: Thread started: Profiles and Channels 3-1 
+2016/04/06 11:31:19 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Profiles and Channels to finish before starting next group 
+2016/04/06 11:31:20 INFO  - jmeter.threads.JMeterThread: Thread started: Profiles and Channels 3-2 
+2016/04/06 11:31:20 INFO  - jmeter.threads.JMeterThread: Thread finished: Profiles and Channels 3-1 
+2016/04/06 11:31:20 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Profiles and Channels 3-1 
+2016/04/06 11:31:21 INFO  - jmeter.threads.JMeterThread: Thread started: Profiles and Channels 3-3 
+2016/04/06 11:31:21 INFO  - jmeter.threads.JMeterThread: Thread finished: Profiles and Channels 3-2 
+2016/04/06 11:31:21 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Profiles and Channels 3-2 
+2016/04/06 11:31:22 INFO  - jmeter.threads.JMeterThread: Thread started: Profiles and Channels 3-4 
+2016/04/06 11:31:22 INFO  - jmeter.threads.JMeterThread: Thread finished: Profiles and Channels 3-3 
+2016/04/06 11:31:22 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Profiles and Channels 3-3 
+2016/04/06 11:31:23 INFO  - jmeter.threads.JMeterThread: Thread started: Profiles and Channels 3-5 
+2016/04/06 11:31:23 INFO  - jmeter.threads.JMeterThread: Thread finished: Profiles and Channels 3-4 
+2016/04/06 11:31:23 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Profiles and Channels 3-4 
+2016/04/06 11:31:24 INFO  - jmeter.threads.JMeterThread: Thread started: Profiles and Channels 3-6 
+2016/04/06 11:31:24 INFO  - jmeter.threads.JMeterThread: Thread finished: Profiles and Channels 3-5 
+2016/04/06 11:31:24 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Profiles and Channels 3-5 
+2016/04/06 11:31:25 INFO  - jmeter.threads.JMeterThread: Thread finished: Profiles and Channels 3-6 
+2016/04/06 11:31:25 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Profiles and Channels 3-6 
+2016/04/06 11:31:26 INFO  - jmeter.engine.StandardJMeterEngine: Starting 11 threads for group Extra Profiles and Misc. Ramp up = 10. 
+2016/04/06 11:31:26 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:26 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-1 
+2016/04/06 11:31:26 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Extra Profiles and Misc to finish before starting next group 
+2016/04/06 11:31:26 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-2 
+2016/04/06 11:31:27 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-1 
+2016/04/06 11:31:27 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-1 
+2016/04/06 11:31:27 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-3 
+2016/04/06 11:31:28 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-2 
+2016/04/06 11:31:28 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-2 
+2016/04/06 11:31:28 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-4 
+2016/04/06 11:31:29 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-3 
+2016/04/06 11:31:29 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-3 
+2016/04/06 11:31:29 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-5 
+2016/04/06 11:31:30 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-4 
+2016/04/06 11:31:30 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-4 
+2016/04/06 11:31:30 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-6 
+2016/04/06 11:31:31 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-5 
+2016/04/06 11:31:31 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-5 
+2016/04/06 11:31:31 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-7 
+2016/04/06 11:31:31 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-6 
+2016/04/06 11:31:31 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-6 
+2016/04/06 11:31:32 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-8 
+2016/04/06 11:31:32 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-7 
+2016/04/06 11:31:32 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-7 
+2016/04/06 11:31:33 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-9 
+2016/04/06 11:31:33 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-8 
+2016/04/06 11:31:33 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-8 
+2016/04/06 11:31:34 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-10 
+2016/04/06 11:31:34 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-9 
+2016/04/06 11:31:34 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-9 
+2016/04/06 11:31:35 INFO  - jmeter.threads.JMeterThread: Thread started: Extra Profiles and Misc 4-11 
+2016/04/06 11:31:35 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-10 
+2016/04/06 11:31:35 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-10 
+2016/04/06 11:31:36 INFO  - jmeter.threads.JMeterThread: Thread finished: Extra Profiles and Misc 4-11 
+2016/04/06 11:31:36 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Extra Profiles and Misc 4-11 
+2016/04/06 11:31:37 INFO  - jmeter.engine.StandardJMeterEngine: Starting 7 threads for group Countries. Ramp up = 7. 
+2016/04/06 11:31:37 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:37 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Countries to finish before starting next group 
+2016/04/06 11:31:37 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-1 
+2016/04/06 11:31:37 INFO  - jmeter.services.FileServer: Stored:  
+2016/04/06 11:31:37 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:37 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:38 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-2 
+2016/04/06 11:31:38 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:38 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:38 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-1 
+2016/04/06 11:31:38 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-1 
+2016/04/06 11:31:39 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-3 
+2016/04/06 11:31:39 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:39 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:39 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-2 
+2016/04/06 11:31:39 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-2 
+2016/04/06 11:31:40 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-4 
+2016/04/06 11:31:40 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:40 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:40 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-3 
+2016/04/06 11:31:40 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-3 
+2016/04/06 11:31:41 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-5 
+2016/04/06 11:31:41 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:41 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:41 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-4 
+2016/04/06 11:31:41 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-4 
+2016/04/06 11:31:42 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-6 
+2016/04/06 11:31:42 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:42 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:42 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-5 
+2016/04/06 11:31:42 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-5 
+2016/04/06 11:31:43 INFO  - jmeter.threads.JMeterThread: Thread started: Countries 5-7 
+2016/04/06 11:31:43 WARN  - jmeter.config.CSVDataSet: Empty delimiter converted to ',' 
+2016/04/06 11:31:43 ERROR - jmeter.config.CSVDataSet: java.io.FileNotFoundException: D:\API_AUTOMATION_PRODUCTION (Access is denied) 
+2016/04/06 11:31:43 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-6 
+2016/04/06 11:31:43 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-6 
+2016/04/06 11:31:44 INFO  - jmeter.threads.JMeterThread: Thread finished: Countries 5-7 
+2016/04/06 11:31:44 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Countries 5-7 
+2016/04/06 11:31:45 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Criteria 1. Ramp up = 1. 
+2016/04/06 11:31:45 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:45 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Criteria 1 to finish before starting next group 
+2016/04/06 11:31:45 INFO  - jmeter.threads.JMeterThread: Thread started: Criteria 1 6-1 
+2016/04/06 11:31:46 INFO  - jmeter.threads.JMeterThread: Thread finished: Criteria 1 6-1 
+2016/04/06 11:31:46 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Criteria 1 6-1 
+2016/04/06 11:31:47 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Criteria 2. Ramp up = 1. 
+2016/04/06 11:31:47 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:47 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Criteria 2 to finish before starting next group 
+2016/04/06 11:31:47 INFO  - jmeter.threads.JMeterThread: Thread started: Criteria 2 7-1 
+2016/04/06 11:31:48 INFO  - jmeter.threads.JMeterThread: Thread finished: Criteria 2 7-1 
+2016/04/06 11:31:48 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Criteria 2 7-1 
+2016/04/06 11:31:49 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Criteria 3. Ramp up = 1. 
+2016/04/06 11:31:49 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:49 INFO  - jmeter.engine.StandardJMeterEngine: Waiting for thread group: Criteria 3 to finish before starting next group 
+2016/04/06 11:31:49 INFO  - jmeter.threads.JMeterThread: Thread started: Criteria 3 8-1 
+2016/04/06 11:31:50 INFO  - jmeter.threads.JMeterThread: Thread finished: Criteria 3 8-1 
+2016/04/06 11:31:50 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Criteria 3 8-1 
+2016/04/06 11:31:51 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Member Search. Ramp up = 1. 
+2016/04/06 11:31:51 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/04/06 11:31:51 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
+2016/04/06 11:31:51 INFO  - jmeter.threads.JMeterThread: Thread started: Member Search 9-1 
+2016/04/06 11:31:52 INFO  - jmeter.threads.JMeterThread: Thread finished: Member Search 9-1 
+2016/04/06 11:31:52 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Member Search 9-1 
+2016/04/06 11:31:52 INFO  - jmeter.engine.StandardJMeterEngine: Stopping test 
+2016/04/06 11:31:52 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/04/06 11:31:52 INFO  - jmeter.gui.util.JMeterMenuBar: setRunning(false,*local*) 
+2016/04/06 11:31:52 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended 

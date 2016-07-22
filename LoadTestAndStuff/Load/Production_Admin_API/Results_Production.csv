@@ -1,0 +1,5 @@
+1414334187002,Get Currencies,OK,Thread Group 1-1,true,1,0
+Get Currencies,OK,Thread Group 1-1,true,1,0
+Set PMS Question,Unprocessable Entity,Thread Group 1-1,false,1,1
+Get Currencies,OK,true
+Set PMS Question,Unprocessable Entity,false

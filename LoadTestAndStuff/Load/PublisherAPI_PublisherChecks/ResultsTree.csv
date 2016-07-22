@@ -1,0 +1,212 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,Filename,Latency
+1439294035844,2865,Fixed CPI-Show,200,OK,Thread Group 1-1,text,true,1442,,2865
+1439294038711,1045,Fixed CPI-Hide,200,OK,Thread Group 1-1,text,true,1442,,1045
+1439294039757,441,Fixed CPI-Reward,200,OK,Thread Group 1-1,text,true,1442,,441
+1439294040200,864,Whole CPI-Show,200,OK,Thread Group 1-1,text,true,830,,864
+1439294041065,453,Whole CPI-Hide,200,OK,Thread Group 1-1,text,true,830,,453
+1439294041519,427,Whole CPI-Reward,200,OK,Thread Group 1-1,text,true,830,,427
+1439294041947,1016,Whole CPI-Show (US),200,OK,Thread Group 1-1,text,true,615,,1016
+1439294042964,519,Whole CPI-Hide (US),200,OK,Thread Group 1-1,text,true,615,,519
+1439294043484,544,Whole CPI-Reward (US),200,OK,Thread Group 1-1,text,true,805,,544
+1439294044029,479,WholeCPI-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,479
+1439294044517,555,CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,625,,555
+1439294045073,549,CPI After Reward Cost-Hide,200,OK,Thread Group 1-1,text,true,625,,549
+1439294045623,506,CPI After Reward Cost-Reward,200,OK,Thread Group 1-1,text,true,625,,506
+1439294046130,493,CPI After Reward Cost-Show (US),200,OK,Thread Group 1-1,text,true,805,,493
+1439294046624,592,CPI After Reward Cost-Hide (US),200,OK,Thread Group 1-1,text,true,805,,592
+1439294047217,470,CPI After Reward Cost-Reward (US),200,OK,Thread Group 1-1,text,true,805,,470
+1439294047688,475,CPI After Reward Cost-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,475
+1439294048165,457,First CPI (Whole),200,OK,Thread Group 1-1,text,true,627,,457
+1439294048623,1177,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,4239,,1177
+1439294049801,1535,First CPI (CPI after reward cost),200,OK,Thread Group 1-1,text,true,626,,1535
+1439294051337,519,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,3284,,519
+1439294051857,911,Manual CPI- Fixed CPI Show,200,OK,Thread Group 1-1,text,true,1442,,911
+1439294052769,1122,Manual CPI- Whole CPI Show,200,OK,Thread Group 1-1,text,true,830,,1122
+1439294053892,1153,Manual CPI-CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,1440,,1153
+1439294055047,463,Publisher Virtual Currency,200,OK,Thread Group 1-1,text,true,1226,,463
+1439294055512,408,Disable Dashboard- Show,200,OK,Thread Group 1-1,text,true,1226,,408
+1439294055921,424,Disable Dashboard- Hide,200,OK,Thread Group 1-1,text,true,1226,,424
+1439294056346,1433,Publisher Category- Show,200,OK,Thread Group 1-1,text,true,1226,,1433
+1439294057781,473,Publisher Category- Hide,200,OK,Thread Group 1-1,text,true,1226,,473
+1439294058255,921,Site Virtual Currency,200,OK,Thread Group 1-1,text,true,1633,,921
+1439294059177,1460,Private Panel - Show,200,OK,Thread Group 1-1,text,true,1633,,1460
+1439294060638,1225,Private Panel- Hide,200,OK,Thread Group 1-1,text,false,1633,,1225
+1439294061864,458,Incentive Grid 5-10 minutes,200,OK,Thread Group 1-1,text,true,1633,,458
+1439294062323,458,Incentive grid 21-30 minutes,200,OK,Thread Group 1-1,text,true,1633,,458
+1439294062782,475,Fixed CPI-Show,200,OK,Thread Group 1-1,text,true,1442,,475
+1439294063258,1432,Fixed CPI-Hide,200,OK,Thread Group 1-1,text,true,1442,,1432
+1439294064691,442,Fixed CPI-Reward,200,OK,Thread Group 1-1,text,true,1442,,442
+1439294065134,472,Whole CPI-Show,200,OK,Thread Group 1-1,text,true,830,,472
+1439294065608,405,Whole CPI-Hide,200,OK,Thread Group 1-1,text,true,830,,405
+1439294066014,467,Whole CPI-Reward,200,OK,Thread Group 1-1,text,true,830,,467
+1439294066482,541,Whole CPI-Show (US),200,OK,Thread Group 1-1,text,true,805,,541
+1439294067024,818,Whole CPI-Hide (US),200,OK,Thread Group 1-1,text,true,805,,818
+1439294067843,602,Whole CPI-Reward (US),200,OK,Thread Group 1-1,text,true,805,,602
+1439294068445,515,WholeCPI-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,515
+1439294068961,506,CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,625,,506
+1439294069468,450,CPI After Reward Cost-Hide,200,OK,Thread Group 1-1,text,true,625,,450
+1439294069919,1094,CPI After Reward Cost-Reward,200,OK,Thread Group 1-1,text,true,625,,1094
+1439294071012,460,CPI After Reward Cost-Show (US),200,OK,Thread Group 1-1,text,true,805,,460
+1439294071473,466,CPI After Reward Cost-Hide (US),200,OK,Thread Group 1-1,text,true,805,,466
+1439294071940,463,CPI After Reward Cost-Reward (US),200,OK,Thread Group 1-1,text,true,805,,463
+1439294072404,456,CPI After Reward Cost-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,456
+1439294072861,429,First CPI (Whole),200,OK,Thread Group 1-1,text,true,627,,429
+1439294073291,464,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,4241,,464
+1439294073756,1339,First CPI (CPI after reward cost),200,OK,Thread Group 1-1,text,true,626,,1339
+1439294075096,499,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,3284,,499
+1439294075597,1000,Manual CPI- Fixed CPI Show,200,OK,Thread Group 1-1,text,true,1442,,1000
+1439294076598,1401,Manual CPI- Whole CPI Show,200,OK,Thread Group 1-1,text,true,830,,1401
+1439294078001,436,Manual CPI-CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,1440,,436
+1439294078439,468,Publisher Virtual Currency,200,OK,Thread Group 1-1,text,true,1226,,468
+1439294078908,427,Disable Dashboard- Show,200,OK,Thread Group 1-1,text,true,1226,,427
+1439294079336,442,Disable Dashboard- Hide,200,OK,Thread Group 1-1,text,true,1226,,442
+1439294079779,1344,Publisher Category- Show,200,OK,Thread Group 1-1,text,true,1226,,1344
+1439294081124,482,Publisher Category- Hide,200,OK,Thread Group 1-1,text,true,1226,,482
+1439294081607,419,Site Virtual Currency,200,OK,Thread Group 1-1,text,true,1633,,419
+1439294082027,772,Private Panel - Show,200,OK,Thread Group 1-1,text,true,1633,,772
+1439294082800,490,Private Panel- Hide,200,OK,Thread Group 1-1,text,false,1633,,490
+1439294083291,462,Incentive Grid 5-10 minutes,200,OK,Thread Group 1-1,text,true,1633,,462
+1439294083754,458,Incentive grid 21-30 minutes,200,OK,Thread Group 1-1,text,true,1633,,458
+1439294084213,1149,Fixed CPI-Show,200,OK,Thread Group 1-1,text,true,1442,,1149
+1439294085362,444,Fixed CPI-Hide,200,OK,Thread Group 1-1,text,true,1442,,444
+1439294085808,452,Fixed CPI-Reward,200,OK,Thread Group 1-1,text,true,1442,,452
+1439294086261,448,Whole CPI-Show,200,OK,Thread Group 1-1,text,true,830,,448
+1439294086710,400,Whole CPI-Hide,200,OK,Thread Group 1-1,text,true,830,,400
+1439294087111,453,Whole CPI-Reward,200,OK,Thread Group 1-1,text,true,830,,453
+1439294087565,461,Whole CPI-Show (US),200,OK,Thread Group 1-1,text,true,805,,461
+1439294088027,441,Whole CPI-Hide (US),200,OK,Thread Group 1-1,text,true,805,,440
+1439294088469,527,Whole CPI-Reward (US),200,OK,Thread Group 1-1,text,true,805,,527
+1439294088997,1102,WholeCPI-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,1101
+1439294090100,424,CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,625,,424
+1439294090525,459,CPI After Reward Cost-Hide,200,OK,Thread Group 1-1,text,true,625,,459
+1439294090985,457,CPI After Reward Cost-Reward,200,OK,Thread Group 1-1,text,true,625,,457
+1439294091443,460,CPI After Reward Cost-Show (US),200,OK,Thread Group 1-1,text,true,805,,460
+1439294091904,962,CPI After Reward Cost-Hide (US),200,OK,Thread Group 1-1,text,true,805,,962
+1439294092867,470,CPI After Reward Cost-Reward (US),200,OK,Thread Group 1-1,text,true,805,,470
+1439294093338,478,CPI After Reward Cost-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,478
+1439294093817,962,First CPI (Whole),200,OK,Thread Group 1-1,text,true,627,,962
+1439294094780,583,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,4241,,583
+1439294095364,449,First CPI (CPI after reward cost),200,OK,Thread Group 1-1,text,true,626,,449
+1439294095814,449,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,3284,,449
+1439294096264,1512,Manual CPI- Fixed CPI Show,200,OK,Thread Group 1-1,text,true,1442,,1512
+1439294097778,484,Manual CPI- Whole CPI Show,200,OK,Thread Group 1-1,text,true,830,,484
+1439294098263,422,Manual CPI-CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,1440,,422
+1439294098686,427,Publisher Virtual Currency,200,OK,Thread Group 1-1,text,true,1226,,427
+1439294099114,444,Disable Dashboard- Show,200,OK,Thread Group 1-1,text,true,1226,,444
+1439294099559,425,Disable Dashboard- Hide,200,OK,Thread Group 1-1,text,true,1226,,425
+1439294099985,448,Publisher Category- Show,200,OK,Thread Group 1-1,text,true,1226,,448
+1439294100434,630,Publisher Category- Hide,200,OK,Thread Group 1-1,text,true,1226,,630
+1439294101065,433,Site Virtual Currency,200,OK,Thread Group 1-1,text,true,1633,,433
+1439294101499,477,Private Panel - Show,200,OK,Thread Group 1-1,text,true,1633,,477
+1439294101977,1447,Private Panel- Hide,200,OK,Thread Group 1-1,text,false,1633,,1447
+1439294103425,478,Incentive Grid 5-10 minutes,200,OK,Thread Group 1-1,text,true,1633,,477
+1439294103904,394,Incentive grid 21-30 minutes,200,OK,Thread Group 1-1,text,true,1633,,394
+1439447831631,21361,Fixed CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447853022,21001,Fixed CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447874028,21005,Fixed CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447895040,20998,Whole CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447916049,21000,Whole CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447937054,21010,Whole CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447958071,21002,Whole CPI-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439447979080,21008,Whole CPI-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448000091,21367,Whole CPI-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448021464,21002,WholeCPI-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448042473,20997,CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448063478,21003,CPI After Reward Cost-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448084488,21003,CPI After Reward Cost-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448105499,21009,CPI After Reward Cost-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448126516,20999,CPI After Reward Cost-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448210896,20999,Fixed CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448231899,20997,Fixed CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448252902,21009,Fixed CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448273916,21001,Whole CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448294921,21007,Whole CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448315935,21003,Whole CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448336942,21007,Whole CPI-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448357959,21001,Whole CPI-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448378967,21002,Whole CPI-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448399975,21006,WholeCPI-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448420988,21006,CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448442000,21003,CPI After Reward Cost-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448463010,20999,CPI After Reward Cost-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448484017,21004,CPI After Reward Cost-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448505023,20996,CPI After Reward Cost-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448526023,21005,CPI After Reward Cost-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448547032,21002,CPI After Reward Cost-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448568038,21008,First CPI (Whole),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448589051,21000,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448610057,21000,First CPI (CPI after reward cost),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448631065,21390,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448652459,20993,Manual CPI- Fixed CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448673463,21006,Manual CPI- Whole CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448694473,21005,Manual CPI-CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448715481,20995,Publisher Virtual Currency,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448736480,20996,Disable Dashboard- Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448757481,21003,Disable Dashboard- Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448778489,20998,Publisher Category- Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448799492,20995,Publisher Category- Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448820492,20997,Site Virtual Currency,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448841493,21009,Private Panel - Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448862506,21007,Private Panel- Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448883522,20997,Incentive Grid 5-10 minutes,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448904521,21007,Incentive grid 21-30 minutes,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439448925540,2486,Vindale Load member surveys,200,OK,Thread Group 1-1,text,true,3196,,2486
+1439449557795,21333,Fixed CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449579131,21002,Fixed CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449600136,21002,Fixed CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449621138,20993,Whole CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449642136,21005,Whole CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449663144,21006,Whole CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449684153,21004,Whole CPI-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449705161,21002,Whole CPI-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449726167,21002,Whole CPI-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449747172,21011,WholeCPI-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449768186,21357,CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449789548,21004,CPI After Reward Cost-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449810556,21009,CPI After Reward Cost-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449831569,21004,CPI After Reward Cost-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449852576,21009,CPI After Reward Cost-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449873588,21006,CPI After Reward Cost-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449894599,21003,CPI After Reward Cost-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449915604,20996,First CPI (Whole),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449936602,21001,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449957607,20999,First CPI (CPI after reward cost),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449978607,21008,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439449999620,21004,Manual CPI- Fixed CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439450020631,21006,Manual CPI- Whole CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,Thread Group 1-1,text,false,2092,,0
+1439450962083,3097,Vindale Load member surveys,200,OK,Thread Group 1-1,text,true,4124,,3097
+1439455106062,3013,Fixed CPI-Show,200,OK,Thread Group 1-1,text,false,411,,3013
+1439455109077,918,Fixed CPI-Hide,200,OK,Thread Group 1-1,text,true,1442,,918
+1439455109997,612,Fixed CPI-Reward,200,OK,Thread Group 1-1,text,true,1442,,612
+1439455110622,1168,Whole CPI-Show,200,OK,Thread Group 1-1,text,true,830,,1168
+1439455111792,980,Whole CPI-Hide,200,OK,Thread Group 1-1,text,true,830,,980
+1439455112774,506,Whole CPI-Reward,200,OK,Thread Group 1-1,text,true,830,,506
+1439455113282,603,Whole CPI-Show (US),200,OK,Thread Group 1-1,text,true,615,,603
+1439455113887,564,Whole CPI-Hide (US),200,OK,Thread Group 1-1,text,true,615,,564
+1439455114453,534,Whole CPI-Reward (US),200,OK,Thread Group 1-1,text,true,805,,534
+1439455114989,498,WholeCPI-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,498
+1439455115489,1171,CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,625,,1171
+1439455116662,755,CPI After Reward Cost-Hide,200,OK,Thread Group 1-1,text,true,625,,755
+1439455117420,626,CPI After Reward Cost-Reward,200,OK,Thread Group 1-1,text,true,625,,626
+1439455118048,720,CPI After Reward Cost-Show (US),200,OK,Thread Group 1-1,text,true,805,,720
+1439455118769,1014,CPI After Reward Cost-Hide (US),200,OK,Thread Group 1-1,text,true,805,,1014
+1439455119785,570,CPI After Reward Cost-Reward (US),200,OK,Thread Group 1-1,text,true,805,,570
+1439455120357,609,CPI After Reward Cost-Sweepstake (US),200,OK,Thread Group 1-1,text,true,805,,609
+1439455120968,749,First CPI (Whole),200,OK,Thread Group 1-1,text,true,627,,749
+1439455121719,1227,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,4239,,1227
+1439455122947,765,First CPI (CPI after reward cost),200,OK,Thread Group 1-1,text,true,626,,765
+1439455123714,1120,Sweepstake-Hide,200,OK,Thread Group 1-1,text,true,3284,,1120
+1439455124837,579,Manual CPI- Fixed CPI Show,200,OK,Thread Group 1-1,text,true,1442,,579
+1439455125418,468,Manual CPI- Whole CPI Show,200,OK,Thread Group 1-1,text,true,830,,468
+1439455125888,505,Manual CPI-CPI After Reward Cost-Show,200,OK,Thread Group 1-1,text,true,1440,,504
+1439455126394,534,Publisher Virtual Currency,200,OK,Thread Group 1-1,text,true,1226,,534
+1439455126930,2496,Disable Dashboard- Show,200,OK,Thread Group 1-1,text,true,1226,,2496
+1439455129428,962,Disable Dashboard- Hide,200,OK,Thread Group 1-1,text,true,1226,,962
+1439455130392,1264,Publisher Category- Show,200,OK,Thread Group 1-1,text,true,1226,,1264
+1439455131658,929,Publisher Category- Hide,200,OK,Thread Group 1-1,text,true,1226,,929
+1439455132589,1277,Site Virtual Currency,200,OK,Thread Group 1-1,text,true,1633,,1277
+1439455133869,917,Private Panel - Show,200,OK,Thread Group 1-1,text,true,1633,,917
+1439455134789,4630,Private Panel- Hide,200,OK,Thread Group 1-1,text,false,1633,,4630
+1439455139421,1086,Incentive Grid 5-10 minutes,200,OK,Thread Group 1-1,text,true,1633,,1086
+1439455140509,1016,Incentive grid 21-30 minutes,200,OK,Thread Group 1-1,text,true,1633,,1016
+1439455141535,9245,Vindale Load member surveys,200,OK,Thread Group 1-1,text,true,411,,9245

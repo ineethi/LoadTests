@@ -1,0 +1,416 @@
+timeStamp,elapsed,label,responseCode,responseMessage,dataType,success,Latency
+1439294035844,2865,Fixed CPI-Show,200,OK,text,true,2865
+1439294038711,1045,Fixed CPI-Hide,200,OK,text,true,1045
+1439294039757,441,Fixed CPI-Reward,200,OK,text,true,441
+1439294040200,864,Whole CPI-Show,200,OK,text,true,864
+1439294041065,453,Whole CPI-Hide,200,OK,text,true,453
+1439294041519,427,Whole CPI-Reward,200,OK,text,true,427
+1439294041947,1016,Whole CPI-Show (US),200,OK,text,true,1016
+1439294042964,519,Whole CPI-Hide (US),200,OK,text,true,519
+1439294043484,544,Whole CPI-Reward (US),200,OK,text,true,544
+1439294044029,479,WholeCPI-Sweepstake (US),200,OK,text,true,479
+1439294044517,555,CPI After Reward Cost-Show,200,OK,text,true,555
+1439294045073,549,CPI After Reward Cost-Hide,200,OK,text,true,549
+1439294045623,506,CPI After Reward Cost-Reward,200,OK,text,true,506
+1439294046130,493,CPI After Reward Cost-Show (US),200,OK,text,true,493
+1439294046624,592,CPI After Reward Cost-Hide (US),200,OK,text,true,592
+1439294047217,470,CPI After Reward Cost-Reward (US),200,OK,text,true,470
+1439294047688,475,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,475
+1439294048165,457,First CPI (Whole),200,OK,text,true,457
+1439294048623,1177,Sweepstake-Hide,200,OK,text,true,1177
+1439294049801,1535,First CPI (CPI after reward cost),200,OK,text,true,1535
+1439294051337,519,Sweepstake-Hide,200,OK,text,true,519
+1439294051857,911,Manual CPI- Fixed CPI Show,200,OK,text,true,911
+1439294052769,1122,Manual CPI- Whole CPI Show,200,OK,text,true,1122
+1439294053892,1153,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,1153
+1439294055047,463,Publisher Virtual Currency,200,OK,text,true,463
+1439294055512,408,Disable Dashboard- Show,200,OK,text,true,408
+1439294055921,424,Disable Dashboard- Hide,200,OK,text,true,424
+1439294056346,1433,Publisher Category- Show,200,OK,text,true,1433
+1439294057781,473,Publisher Category- Hide,200,OK,text,true,473
+1439294058255,921,Site Virtual Currency,200,OK,text,true,921
+1439294059177,1460,Private Panel - Show,200,OK,text,true,1460
+1439294060638,1225,Private Panel- Hide,200,OK,text,false,1225
+1439294061864,458,Incentive Grid 5-10 minutes,200,OK,text,true,458
+1439294062323,458,Incentive grid 21-30 minutes,200,OK,text,true,458
+1439294062782,475,Fixed CPI-Show,200,OK,text,true,475
+1439294063258,1432,Fixed CPI-Hide,200,OK,text,true,1432
+1439294064691,442,Fixed CPI-Reward,200,OK,text,true,442
+1439294065134,472,Whole CPI-Show,200,OK,text,true,472
+1439294065608,405,Whole CPI-Hide,200,OK,text,true,405
+1439294066014,467,Whole CPI-Reward,200,OK,text,true,467
+1439294066482,541,Whole CPI-Show (US),200,OK,text,true,541
+1439294067024,818,Whole CPI-Hide (US),200,OK,text,true,818
+1439294067843,602,Whole CPI-Reward (US),200,OK,text,true,602
+1439294068445,515,WholeCPI-Sweepstake (US),200,OK,text,true,515
+1439294068961,506,CPI After Reward Cost-Show,200,OK,text,true,506
+1439294069468,450,CPI After Reward Cost-Hide,200,OK,text,true,450
+1439294069919,1094,CPI After Reward Cost-Reward,200,OK,text,true,1094
+1439294071012,460,CPI After Reward Cost-Show (US),200,OK,text,true,460
+1439294071473,466,CPI After Reward Cost-Hide (US),200,OK,text,true,466
+1439294071940,463,CPI After Reward Cost-Reward (US),200,OK,text,true,463
+1439294072404,456,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,456
+1439294072861,429,First CPI (Whole),200,OK,text,true,429
+1439294073291,464,Sweepstake-Hide,200,OK,text,true,464
+1439294073756,1339,First CPI (CPI after reward cost),200,OK,text,true,1339
+1439294075096,499,Sweepstake-Hide,200,OK,text,true,499
+1439294075597,1000,Manual CPI- Fixed CPI Show,200,OK,text,true,1000
+1439294076598,1401,Manual CPI- Whole CPI Show,200,OK,text,true,1401
+1439294078001,436,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,436
+1439294078439,468,Publisher Virtual Currency,200,OK,text,true,468
+1439294078908,427,Disable Dashboard- Show,200,OK,text,true,427
+1439294079336,442,Disable Dashboard- Hide,200,OK,text,true,442
+1439294079779,1344,Publisher Category- Show,200,OK,text,true,1344
+1439294081124,482,Publisher Category- Hide,200,OK,text,true,482
+1439294081607,419,Site Virtual Currency,200,OK,text,true,419
+1439294082027,772,Private Panel - Show,200,OK,text,true,772
+1439294082800,490,Private Panel- Hide,200,OK,text,false,490
+1439294083291,462,Incentive Grid 5-10 minutes,200,OK,text,true,462
+1439294083754,458,Incentive grid 21-30 minutes,200,OK,text,true,458
+1439294084213,1149,Fixed CPI-Show,200,OK,text,true,1149
+1439294085362,444,Fixed CPI-Hide,200,OK,text,true,444
+1439294085808,452,Fixed CPI-Reward,200,OK,text,true,452
+1439294086261,448,Whole CPI-Show,200,OK,text,true,448
+1439294086710,400,Whole CPI-Hide,200,OK,text,true,400
+1439294087111,453,Whole CPI-Reward,200,OK,text,true,453
+1439294087565,461,Whole CPI-Show (US),200,OK,text,true,461
+1439294088027,441,Whole CPI-Hide (US),200,OK,text,true,440
+1439294088469,527,Whole CPI-Reward (US),200,OK,text,true,527
+1439294088997,1102,WholeCPI-Sweepstake (US),200,OK,text,true,1101
+1439294090100,424,CPI After Reward Cost-Show,200,OK,text,true,424
+1439294090525,459,CPI After Reward Cost-Hide,200,OK,text,true,459
+1439294090985,457,CPI After Reward Cost-Reward,200,OK,text,true,457
+1439294091443,460,CPI After Reward Cost-Show (US),200,OK,text,true,460
+1439294091904,962,CPI After Reward Cost-Hide (US),200,OK,text,true,962
+1439294092867,470,CPI After Reward Cost-Reward (US),200,OK,text,true,470
+1439294093338,478,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,478
+1439294093817,962,First CPI (Whole),200,OK,text,true,962
+1439294094780,583,Sweepstake-Hide,200,OK,text,true,583
+1439294095364,449,First CPI (CPI after reward cost),200,OK,text,true,449
+1439294095814,449,Sweepstake-Hide,200,OK,text,true,449
+1439294096264,1512,Manual CPI- Fixed CPI Show,200,OK,text,true,1512
+1439294097778,484,Manual CPI- Whole CPI Show,200,OK,text,true,484
+1439294098263,422,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,422
+1439294098686,427,Publisher Virtual Currency,200,OK,text,true,427
+1439294099114,444,Disable Dashboard- Show,200,OK,text,true,444
+1439294099559,425,Disable Dashboard- Hide,200,OK,text,true,425
+1439294099985,448,Publisher Category- Show,200,OK,text,true,448
+1439294100434,630,Publisher Category- Hide,200,OK,text,true,630
+1439294101065,433,Site Virtual Currency,200,OK,text,true,433
+1439294101499,477,Private Panel - Show,200,OK,text,true,477
+1439294101977,1447,Private Panel- Hide,200,OK,text,false,1447
+1439294103425,478,Incentive Grid 5-10 minutes,200,OK,text,true,477
+1439294103904,394,Incentive grid 21-30 minutes,200,OK,text,true,394
+1439295720068,8085,Fixed CPI-Show,200,OK,text,false,8085
+1439295728159,1200,Fixed CPI-Hide,200,OK,text,true,1200
+1439295729361,5016,Fixed CPI-Reward,200,OK,text,true,5016
+1439295734380,605,Whole CPI-Show,200,OK,text,true,605
+1439295734988,427,Whole CPI-Hide,200,OK,text,true,427
+1439295735419,1328,Whole CPI-Reward,200,OK,text,true,1328
+1439295736750,727,Whole CPI-Show (US),200,OK,text,true,727
+1439295737479,508,Whole CPI-Hide (US),200,OK,text,true,508
+1439295737990,510,Whole CPI-Reward (US),200,OK,text,true,510
+1439295738503,549,WholeCPI-Sweepstake (US),200,OK,text,true,549
+1439295739055,1240,CPI After Reward Cost-Show,200,OK,text,true,1240
+1439295740298,433,CPI After Reward Cost-Hide,200,OK,text,true,433
+1439295740734,446,CPI After Reward Cost-Reward,200,OK,text,true,446
+1439295741183,468,CPI After Reward Cost-Show (US),200,OK,text,true,468
+1439295741655,517,CPI After Reward Cost-Hide (US),200,OK,text,true,517
+1439295742175,494,CPI After Reward Cost-Reward (US),200,OK,text,true,494
+1439295742672,452,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,452
+1439295743126,1018,First CPI (Whole),200,OK,text,true,1018
+1439295744146,758,Sweepstake-Hide,200,OK,text,true,758
+1439295744904,522,First CPI (CPI after reward cost),200,OK,text,true,522
+1439295745428,617,Sweepstake-Hide,200,OK,text,true,617
+1439295746049,1688,Manual CPI- Fixed CPI Show,200,OK,text,true,1688
+1439295747743,1045,Manual CPI- Whole CPI Show,200,OK,text,true,1045
+1439295748789,519,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,519
+1439295749310,13675,Publisher Virtual Currency,200,OK,text,true,13675
+1439295762987,565,Disable Dashboard- Show,200,OK,text,true,565
+1439295763557,522,Disable Dashboard- Hide,200,OK,text,true,522
+1439295764081,551,Publisher Category- Show,200,OK,text,true,551
+1439295764638,654,Publisher Category- Hide,200,OK,text,true,654
+1439295765294,747,Site Virtual Currency,200,OK,text,true,747
+1439295766051,600,Private Panel - Show,200,OK,text,true,600
+1439295766652,592,Private Panel- Hide,200,OK,text,false,592
+1439295767246,1789,Incentive Grid 5-10 minutes,200,OK,text,true,1789
+1439295769037,512,Incentive grid 21-30 minutes,200,OK,text,true,512
+1439295769550,469,Fixed CPI-Show,200,OK,text,true,469
+1439295770020,499,Fixed CPI-Hide,200,OK,text,true,499
+1439295770520,1246,Fixed CPI-Reward,200,OK,text,true,1246
+1439295771767,455,Whole CPI-Show,200,OK,text,true,455
+1439295772224,467,Whole CPI-Hide,200,OK,text,true,467
+1439295772692,474,Whole CPI-Reward,200,OK,text,true,474
+1439295773167,445,Whole CPI-Show (US),200,OK,text,true,445
+1439295773614,464,Whole CPI-Hide (US),200,OK,text,true,464
+1439295774079,1205,Whole CPI-Reward (US),200,OK,text,true,1205
+1439295775286,436,WholeCPI-Sweepstake (US),200,OK,text,true,436
+1439295775724,448,CPI After Reward Cost-Show,200,OK,text,true,447
+1439295776173,470,CPI After Reward Cost-Hide,200,OK,text,true,470
+1439295776644,726,CPI After Reward Cost-Reward,200,OK,text,true,726
+1439295777371,455,CPI After Reward Cost-Show (US),200,OK,text,true,455
+1439295777828,433,CPI After Reward Cost-Hide (US),200,OK,text,true,433
+1439295778263,1087,CPI After Reward Cost-Reward (US),200,OK,text,true,1087
+1439295779351,454,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,454
+1439295779806,510,First CPI (Whole),200,OK,text,true,510
+1439295780318,543,Sweepstake-Hide,200,OK,text,true,543
+1439295780862,488,First CPI (CPI after reward cost),200,OK,text,true,488
+1439295781351,467,Sweepstake-Hide,200,OK,text,true,467
+1439295781820,503,Manual CPI- Fixed CPI Show,200,OK,text,true,503
+1439295782324,476,Manual CPI- Whole CPI Show,200,OK,text,true,476
+1439295782802,427,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,427
+1439295783230,1082,Publisher Virtual Currency,200,OK,text,true,1082
+1439295784314,485,Disable Dashboard- Show,200,OK,text,true,485
+1439295784800,1154,Disable Dashboard- Hide,200,OK,text,true,1154
+1439295785956,508,Publisher Category- Show,200,OK,text,true,508
+1439295786466,494,Publisher Category- Hide,200,OK,text,true,494
+1439295786961,488,Site Virtual Currency,200,OK,text,true,488
+1439295787450,494,Private Panel - Show,200,OK,text,true,494
+1439295787945,475,Private Panel- Hide,200,OK,text,false,475
+1439295788422,431,Incentive Grid 5-10 minutes,200,OK,text,true,431
+1439295788855,517,Incentive grid 21-30 minutes,200,OK,text,true,517
+1439295789374,442,Fixed CPI-Show,200,OK,text,true,442
+1439295789817,458,Fixed CPI-Hide,200,OK,text,true,458
+1439295790276,1104,Fixed CPI-Reward,200,OK,text,true,1104
+1439295791381,981,Whole CPI-Show,200,OK,text,true,981
+1439295792363,508,Whole CPI-Hide,200,OK,text,true,508
+1439295792872,509,Whole CPI-Reward,200,OK,text,true,509
+1439295795342,470,Whole CPI-Show (US),200,OK,text,true,470
+1439295795813,505,Whole CPI-Hide (US),200,OK,text,true,505
+1439295796319,515,Whole CPI-Reward (US),200,OK,text,true,515
+1439295796836,568,WholeCPI-Sweepstake (US),200,OK,text,true,568
+1439295797405,449,CPI After Reward Cost-Show,200,OK,text,true,449
+1439295797856,513,CPI After Reward Cost-Hide,200,OK,text,true,513
+1439295798370,528,CPI After Reward Cost-Reward,200,OK,text,true,528
+1439295798900,500,CPI After Reward Cost-Show (US),200,OK,text,true,500
+1439295799401,548,CPI After Reward Cost-Hide (US),200,OK,text,true,548
+1439295799949,683,CPI After Reward Cost-Reward (US),200,OK,text,true,683
+1439295800633,473,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,473
+1439295801108,444,First CPI (Whole),200,OK,text,true,444
+1439295801553,1267,Sweepstake-Hide,200,OK,text,true,1267
+1439295802821,531,First CPI (CPI after reward cost),200,OK,text,true,531
+1439295803353,646,Sweepstake-Hide,200,OK,text,true,646
+1439295804001,554,Manual CPI- Fixed CPI Show,200,OK,text,true,554
+1439295804556,479,Manual CPI- Whole CPI Show,200,OK,text,true,479
+1439295805036,589,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,589
+1439295805626,489,Publisher Virtual Currency,200,OK,text,true,489
+1439295806116,528,Disable Dashboard- Show,200,OK,text,true,528
+1439295806646,1613,Disable Dashboard- Hide,200,OK,text,true,1613
+1439295808260,1099,Publisher Category- Show,200,OK,text,true,1099
+1439295809361,551,Publisher Category- Hide,200,OK,text,true,551
+1439295809914,3088,Site Virtual Currency,200,OK,text,true,3088
+1439295813003,450,Private Panel - Show,200,OK,text,true,450
+1439295813455,461,Private Panel- Hide,200,OK,text,false,461
+1439295813917,487,Incentive Grid 5-10 minutes,200,OK,text,true,487
+1439295814405,1186,Incentive grid 21-30 minutes,200,OK,text,true,1186
+1439295870151,3136,Fixed CPI-Show,200,OK,text,true,3136
+1439295873289,1167,Fixed CPI-Hide,200,OK,text,true,1167
+1439295874457,867,Fixed CPI-Reward,200,OK,text,true,867
+1439295875325,477,Whole CPI-Show,200,OK,text,true,477
+1439295875803,459,Whole CPI-Hide,200,OK,text,true,459
+1439295876264,431,Whole CPI-Reward,200,OK,text,true,431
+1439295876697,449,Whole CPI-Show (US),200,OK,text,true,449
+1439295877147,480,Whole CPI-Hide (US),200,OK,text,true,480
+1439295877629,428,Whole CPI-Reward (US),200,OK,text,true,428
+1439295878059,472,WholeCPI-Sweepstake (US),200,OK,text,true,472
+1439295878533,451,CPI After Reward Cost-Show,200,OK,text,true,451
+1439295878985,457,CPI After Reward Cost-Hide,200,OK,text,true,457
+1439295879443,445,CPI After Reward Cost-Reward,200,OK,text,true,445
+1439295879890,475,CPI After Reward Cost-Show (US),200,OK,text,true,475
+1439295880367,484,CPI After Reward Cost-Hide (US),200,OK,text,true,484
+1439295880852,469,CPI After Reward Cost-Reward (US),200,OK,text,true,469
+1439295881323,1038,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,1038
+1439295882362,1455,First CPI (Whole),200,OK,text,true,1455
+1439295883819,570,Sweepstake-Hide,200,OK,text,true,570
+1439295884391,451,First CPI (CPI after reward cost),200,OK,text,true,451
+1439295884844,520,Sweepstake-Hide,200,OK,text,true,519
+1439295885365,457,Manual CPI- Fixed CPI Show,200,OK,text,true,457
+1439295885823,450,Manual CPI- Whole CPI Show,200,OK,text,true,450
+1439295886274,464,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,464
+1439295886739,459,Publisher Virtual Currency,200,OK,text,true,459
+1439295887200,446,Disable Dashboard- Show,200,OK,text,true,446
+1439295887647,425,Disable Dashboard- Hide,200,OK,text,true,425
+1439295888074,453,Publisher Category- Show,200,OK,text,true,453
+1439295888529,991,Publisher Category- Hide,200,OK,text,true,991
+1439295889521,971,Site Virtual Currency,200,OK,text,true,971
+1439295890494,472,Private Panel - Show,200,OK,text,true,472
+1439295890967,421,Private Panel- Hide,200,OK,text,false,421
+1439295891389,434,Incentive Grid 5-10 minutes,200,OK,text,true,434
+1439295891825,452,Incentive grid 21-30 minutes,200,OK,text,true,452
+1439295892278,435,Fixed CPI-Show,200,OK,text,true,435
+1439295892715,458,Fixed CPI-Hide,200,OK,text,true,458
+1439295893175,389,Fixed CPI-Reward,200,OK,text,true,389
+1439295893566,392,Whole CPI-Show,200,OK,text,true,392
+1439295893960,431,Whole CPI-Hide,200,OK,text,true,431
+1439295894393,489,Whole CPI-Reward,200,OK,text,true,489
+1439295894883,480,Whole CPI-Show (US),200,OK,text,true,480
+1439295895364,580,Whole CPI-Hide (US),200,OK,text,true,580
+1439295895945,451,Whole CPI-Reward (US),200,OK,text,true,451
+1439295896400,974,WholeCPI-Sweepstake (US),200,OK,text,true,974
+1439295897376,482,CPI After Reward Cost-Show,200,OK,text,true,482
+1439295897860,457,CPI After Reward Cost-Hide,200,OK,text,true,457
+1439295898318,432,CPI After Reward Cost-Reward,200,OK,text,true,432
+1439295898752,459,CPI After Reward Cost-Show (US),200,OK,text,true,459
+1439295899212,524,CPI After Reward Cost-Hide (US),200,OK,text,true,523
+1439295899737,465,CPI After Reward Cost-Reward (US),200,OK,text,true,465
+1439295900204,437,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,437
+1439295900643,467,First CPI (Whole),200,OK,text,true,467
+1439295901111,449,Sweepstake-Hide,200,OK,text,true,449
+1439295901562,1516,First CPI (CPI after reward cost),200,OK,text,true,1516
+1439295903080,1458,Sweepstake-Hide,200,OK,text,true,1458
+1439295904539,460,Manual CPI- Fixed CPI Show,200,OK,text,true,460
+1439295904999,420,Manual CPI- Whole CPI Show,200,OK,text,true,420
+1439295905421,447,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,447
+1439295905870,396,Publisher Virtual Currency,200,OK,text,true,396
+1439295906267,436,Disable Dashboard- Show,200,OK,text,true,436
+1439295906704,462,Disable Dashboard- Hide,200,OK,text,true,462
+1439295907167,428,Publisher Category- Show,200,OK,text,true,428
+1439295907596,1430,Publisher Category- Hide,200,OK,text,true,1430
+1439295909027,1045,Site Virtual Currency,200,OK,text,true,1045
+1439295910073,462,Private Panel - Show,200,OK,text,true,462
+1439295910536,449,Private Panel- Hide,200,OK,text,false,449
+1439295910987,420,Incentive Grid 5-10 minutes,200,OK,text,true,420
+1439295911408,962,Incentive grid 21-30 minutes,200,OK,text,true,962
+1439295912372,461,Fixed CPI-Show,200,OK,text,true,461
+1439295912834,465,Fixed CPI-Hide,200,OK,text,true,465
+1439295913300,428,Fixed CPI-Reward,200,OK,text,true,428
+1439295913729,397,Whole CPI-Show,200,OK,text,true,397
+1439295914128,452,Whole CPI-Hide,200,OK,text,true,452
+1439295914581,470,Whole CPI-Reward,200,OK,text,true,470
+1439295915053,498,Whole CPI-Show (US),200,OK,text,true,498
+1439295915552,626,Whole CPI-Hide (US),200,OK,text,true,626
+1439295916180,451,Whole CPI-Reward (US),200,OK,text,true,451
+1439295916632,575,WholeCPI-Sweepstake (US),200,OK,text,true,575
+1439295917208,450,CPI After Reward Cost-Show,200,OK,text,true,450
+1439295917660,1207,CPI After Reward Cost-Hide,200,OK,text,true,1207
+1439295918869,470,CPI After Reward Cost-Reward,200,OK,text,true,470
+1439295919341,471,CPI After Reward Cost-Show (US),200,OK,text,true,471
+1439295919813,459,CPI After Reward Cost-Hide (US),200,OK,text,true,459
+1439295920273,521,CPI After Reward Cost-Reward (US),200,OK,text,true,521
+1439295920795,556,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,556
+1439295921353,534,First CPI (Whole),200,OK,text,true,534
+1439295921888,602,Sweepstake-Hide,200,OK,text,true,602
+1439295922491,479,First CPI (CPI after reward cost),200,OK,text,true,479
+1439295922971,2874,Sweepstake-Hide,200,OK,text,true,2874
+1439295925847,440,Manual CPI- Fixed CPI Show,200,OK,text,true,440
+1439295926288,465,Manual CPI- Whole CPI Show,200,OK,text,true,465
+1439295926754,610,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,610
+1439295927366,524,Publisher Virtual Currency,200,OK,text,true,524
+1439295927892,460,Disable Dashboard- Show,200,OK,text,true,460
+1439295928353,438,Disable Dashboard- Hide,200,OK,text,true,438
+1439295928792,461,Publisher Category- Show,200,OK,text,true,461
+1439295929254,1476,Publisher Category- Hide,200,OK,text,true,1476
+1439295930731,422,Site Virtual Currency,200,OK,text,true,422
+1439295931154,435,Private Panel - Show,200,OK,text,true,435
+1439295931591,1827,Private Panel- Hide,200,OK,text,false,1827
+1439295933419,475,Incentive Grid 5-10 minutes,200,OK,text,true,475
+1439295933896,1797,Incentive grid 21-30 minutes,200,OK,text,true,1797
+1439447831631,21361,Fixed CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447853022,21001,Fixed CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447874028,21005,Fixed CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447895040,20998,Whole CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447916049,21000,Whole CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447937054,21010,Whole CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447958071,21002,Whole CPI-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439447979080,21008,Whole CPI-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448000091,21367,Whole CPI-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448021464,21002,WholeCPI-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448042473,20997,CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448063478,21003,CPI After Reward Cost-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448084488,21003,CPI After Reward Cost-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448105499,21009,CPI After Reward Cost-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448126516,20999,CPI After Reward Cost-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448210896,20999,Fixed CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448231899,20997,Fixed CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448252902,21009,Fixed CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448273916,21001,Whole CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448294921,21007,Whole CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448315935,21003,Whole CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448336942,21007,Whole CPI-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448357959,21001,Whole CPI-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448378967,21002,Whole CPI-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448399975,21006,WholeCPI-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448420988,21006,CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448442000,21003,CPI After Reward Cost-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448463010,20999,CPI After Reward Cost-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448484017,21004,CPI After Reward Cost-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448505023,20996,CPI After Reward Cost-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448526023,21005,CPI After Reward Cost-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448547032,21002,CPI After Reward Cost-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448568038,21008,First CPI (Whole),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448589051,21000,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448610057,21000,First CPI (CPI after reward cost),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448631065,21390,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448652459,20993,Manual CPI- Fixed CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448673463,21006,Manual CPI- Whole CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448694473,21005,Manual CPI-CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448715481,20995,Publisher Virtual Currency,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448736480,20996,Disable Dashboard- Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448757481,21003,Disable Dashboard- Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448778489,20998,Publisher Category- Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448799492,20995,Publisher Category- Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448820492,20997,Site Virtual Currency,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448841493,21009,Private Panel - Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448862506,21007,Private Panel- Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448883522,20997,Incentive Grid 5-10 minutes,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448904521,21007,Incentive grid 21-30 minutes,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439448925540,2486,Vindale Load member surveys,200,OK,text,true,2486
+1439449557795,21333,Fixed CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449579131,21002,Fixed CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449600136,21002,Fixed CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449621138,20993,Whole CPI-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449642136,21005,Whole CPI-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449663144,21006,Whole CPI-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449684153,21004,Whole CPI-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449705161,21002,Whole CPI-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449726167,21002,Whole CPI-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449747172,21011,WholeCPI-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449768186,21357,CPI After Reward Cost-Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449789548,21004,CPI After Reward Cost-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449810556,21009,CPI After Reward Cost-Reward,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449831569,21004,CPI After Reward Cost-Show (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449852576,21009,CPI After Reward Cost-Hide (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449873588,21006,CPI After Reward Cost-Reward (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449894599,21003,CPI After Reward Cost-Sweepstake (US),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449915604,20996,First CPI (Whole),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449936602,21001,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449957607,20999,First CPI (CPI after reward cost),Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449978607,21008,Sweepstake-Hide,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439449999620,21004,Manual CPI- Fixed CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439450020631,21006,Manual CPI- Whole CPI Show,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connection to https://q.www.instant.ly refused,text,false,0
+1439450962083,3097,Vindale Load member surveys,200,OK,text,true,3097
+1439455106062,3013,Fixed CPI-Show,200,OK,text,false,3013
+1439455109077,918,Fixed CPI-Hide,200,OK,text,true,918
+1439455109997,612,Fixed CPI-Reward,200,OK,text,true,612
+1439455110622,1168,Whole CPI-Show,200,OK,text,true,1168
+1439455111792,980,Whole CPI-Hide,200,OK,text,true,980
+1439455112774,506,Whole CPI-Reward,200,OK,text,true,506
+1439455113282,603,Whole CPI-Show (US),200,OK,text,true,603
+1439455113887,564,Whole CPI-Hide (US),200,OK,text,true,564
+1439455114453,534,Whole CPI-Reward (US),200,OK,text,true,534
+1439455114989,498,WholeCPI-Sweepstake (US),200,OK,text,true,498
+1439455115489,1171,CPI After Reward Cost-Show,200,OK,text,true,1171
+1439455116662,755,CPI After Reward Cost-Hide,200,OK,text,true,755
+1439455117420,626,CPI After Reward Cost-Reward,200,OK,text,true,626
+1439455118048,720,CPI After Reward Cost-Show (US),200,OK,text,true,720
+1439455118769,1014,CPI After Reward Cost-Hide (US),200,OK,text,true,1014
+1439455119785,570,CPI After Reward Cost-Reward (US),200,OK,text,true,570
+1439455120357,609,CPI After Reward Cost-Sweepstake (US),200,OK,text,true,609
+1439455120968,749,First CPI (Whole),200,OK,text,true,749
+1439455121719,1227,Sweepstake-Hide,200,OK,text,true,1227
+1439455122947,765,First CPI (CPI after reward cost),200,OK,text,true,765
+1439455123714,1120,Sweepstake-Hide,200,OK,text,true,1120
+1439455124837,579,Manual CPI- Fixed CPI Show,200,OK,text,true,579
+1439455125418,468,Manual CPI- Whole CPI Show,200,OK,text,true,468
+1439455125888,505,Manual CPI-CPI After Reward Cost-Show,200,OK,text,true,504
+1439455126394,534,Publisher Virtual Currency,200,OK,text,true,534
+1439455126930,2496,Disable Dashboard- Show,200,OK,text,true,2496
+1439455129428,962,Disable Dashboard- Hide,200,OK,text,true,962
+1439455130392,1264,Publisher Category- Show,200,OK,text,true,1264
+1439455131658,929,Publisher Category- Hide,200,OK,text,true,929
+1439455132589,1277,Site Virtual Currency,200,OK,text,true,1277
+1439455133869,917,Private Panel - Show,200,OK,text,true,917
+1439455134789,4630,Private Panel- Hide,200,OK,text,false,4630
+1439455139421,1086,Incentive Grid 5-10 minutes,200,OK,text,true,1086
+1439455140509,1016,Incentive grid 21-30 minutes,200,OK,text,true,1016
+1439455141535,9245,Vindale Load member surveys,200,OK,text,true,9245

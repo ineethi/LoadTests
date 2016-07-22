@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample/>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK77-91Y8p77-9RDAAOABAi8Xg2KoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKOFQb77-977-9CzAAOABAlIvo2KoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-9OQUe77-977-9MAA4AEDF2ezYqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioMViTvv73vv73vv70bMAA4AED71u_YqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK77-977-9EgM9PTAAOABA_9bH2aoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioMHXjvv73vv70_77-9MAA4AEDtusnZqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-9Gu-_vW8A77-9MAA4AECj-M7ZqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-977-9UEZO77-9MAA4AEDwqdDZqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKXGDvv73vv70ydzAAOABAtI3S2aoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-9Te-_vQV377-9MAA4AEC03tXZqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioORu-_vUHvv73vv73vv70wADgAQNCL1tmqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioOGO-_ve-_ve-_ve-_vU0wADgAQP3H2tmqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioMLV7vv73vv70x77-9MAA4AECBk-HZqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-9IkZt77-977-9MAA4AECunOLZqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKXi1C77-977-9PzAAOABAgIfj2aoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK77-977-9Hn92DTAAOABA_qD22aoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioINw9wPu-_vQEwADgAQKHOgdqqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKQhbJrO-_ve-_vTAAOABAouqM2qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioIRDfvv71oNjQwADgAQOepj9qqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioMde-_vUfvv73vv70_MAA4AED_2o_aqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioL77-977-9YG3vv70wADgAQPjektqqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioO77-9Le-_ve-_ve-_vWowADgAQPnrldqqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioIEQ5E77-9ZS4wADgAQKnhp9qqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioMCTnvv73vv71877-9MAA4AECr6KvaqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKaG3vv73vv70WdzAAOABAtPKz2qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioO77-9XO-_vSjvv73vv70wADgAQLf9ttqqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK77-9zbPQlu-_vTAAOABA1ZK82qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK77-9O-2fgu-_vTAAOABA0tW-2qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioIPxlQ77-9aQUwADgAQJbZ2dqqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKPu-_vQJF77-9UjAAOABA5ure2qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioQ77-977-9YO-_ve-_ve-_vTAAOABA7tzh2qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKKu-_ve-_vWAbezAAOABAz7Xp2qoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioMfWzvv71I77-977-9MAA4AECHyOvbqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioLJhDvv73vv73vv70wADgAQOXFgNyqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-9YO-_vSzvv71zMAA4AECM1YLcqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKeFbvv70ueO-_vTAAOABAtPaH3KoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-977-9cX9f77-9MAA4AEDw3IrcqipIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338452,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioITh5kMGfvv70wADgAQJLPxdyqKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;},{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioKLzbvv71jXu-_vTAAOABAks_F3KoqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338558,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEP7UFBjv5gQgmPmpDioGfHk2QtubMAA4AEC98OmEqypIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$0.15 ($0.10)&quot;},{&quot;surveyId&quot;: 338452,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioMA--_vXnvv70n77-9MAA4AEC98OmEqypIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;},{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK77-977-9UO-_vTAAOABAvfDphKsqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample/>
+<httpSample>
+  <responseData class="java.lang.String">&#xd;
+&lt;!DOCTYPE html&gt;&#xd;
+&lt;html xmlns=&quot;http://www.w3.org/1999/html&quot;&gt;&#xd;
+&lt;head&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if(&quot;function&quot;==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&amp;&amp;t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&amp;&amp;t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c&gt;u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i=&quot;nr@context&quot;,a=t(&quot;gos&quot;);e.exports=r()},{gos:&quot;7eSDFh&quot;}],ee:[function(t,e){e.exports=t(&quot;QJf3ax&quot;)},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t(&quot;handle&quot;),o=t(1),i=t(2);&quot;undefined&quot;==typeof window.newrelic&amp;&amp;(newrelic=window.NREUM);var a=[&quot;setPageViewName&quot;,&quot;addPageAction&quot;,&quot;setCustomAttribute&quot;,&quot;finished&quot;,&quot;addToTrace&quot;,&quot;inlineHit&quot;,&quot;noticeError&quot;];o(a,function(t,e){window.NREUM[e]=n(&quot;api-&quot;+e)}),e.exports=window.NREUM},{1:12,2:13,handle:&quot;D5DuLP&quot;}],gos:[function(t,e){e.exports=t(&quot;7eSDFh&quot;)},{}],&quot;7eSDFh&quot;:[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&amp;&amp;(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t(&quot;ee&quot;).create();e.exports=n,n.ee=r,r.q={}},{ee:&quot;QJf3ax&quot;}],handle:[function(t,e){e.exports=t(&quot;D5DuLP&quot;)},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||&quot;object&quot;!==e&amp;&amp;&quot;function&quot;!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o=&quot;nr@id&quot;,i=t(&quot;gos&quot;);e.exports=n},{gos:&quot;7eSDFh&quot;}],id:[function(t,e){e.exports=t(&quot;XL7HBI&quot;)},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName(&quot;script&quot;)[0];if(t&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;e){c(p,function(e,n){t[e]||(t[e]=n)});var n=&quot;https&quot;===s.split(&quot;:&quot;)[0]||t.sslForHttp;l.proto=n?&quot;https://&quot;:&quot;http://&quot;,a(&quot;mark&quot;,[&quot;onload&quot;,i()]);var r=f.createElement(&quot;script&quot;);r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){&quot;complete&quot;===f.readyState&amp;&amp;o()}function o(){a(&quot;mark&quot;,[&quot;domContent&quot;,i()])}function i(){return(new Date).getTime()}var a=t(&quot;handle&quot;),c=t(1),u=window,f=u.document;t(2);var s=(&quot;&quot;+location).split(&quot;?&quot;)[0],p={beacon:&quot;bam.nr-data.net&quot;,errorBeacon:&quot;bam.nr-data.net&quot;,agent:&quot;js-agent.newrelic.com/nr-852.min.js&quot;},d=window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener(&quot;DOMContentLoaded&quot;,o,!1),u.addEventListener(&quot;load&quot;,n,!1)):(f.attachEvent(&quot;onreadystatechange&quot;,r),u.attachEvent(&quot;onload&quot;,n)),a(&quot;mark&quot;,[&quot;firstbyte&quot;,i()]);var v=0},{1:12,2:3,handle:&quot;D5DuLP&quot;}],loader:[function(t,e){e.exports=t(&quot;G9z0Bl&quot;)},{}],12:[function(t,e){function n(t,e){var n=[],o=&quot;&quot;,i=0;for(o in t)r.call(t,o)&amp;&amp;(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),&quot;undefined&quot;==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},[&quot;G9z0Bl&quot;]);&lt;/script&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3899bf9b6e&quot;,&quot;applicationID&quot;:&quot;11131674&quot;,&quot;transactionName&quot;:&quot;M1cEZRcHXkUDVxJeVgodM0MMSVdBPUcFaF0FRgduDQdeUg5RFBlJDEI=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:74,&quot;ttGuid&quot;:&quot;&quot;,&quot;agentToken&quot;:&quot;&quot;,&quot;atts&quot;:&quot;HxAHE18dTUs=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&lt;/script&gt;&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;</responseData>
+</httpSample>
+<httpSample/>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338452,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioMbe-_vXF477-977-9MAA4AECwiZKFqypIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;},{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK17RX77-977-9dTAAOABAsImShasqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;meta http-equiv=&quot;Expires&quot; content=&quot;-1&quot;/&gt;
+    &lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+        body {
+            font-size: 12px;
+            color: #000;
+            background: white repeat-x left top;
+        }
+
+        .redirectionMsg {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    &lt;/style&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/gateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery-1.8.2.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery.flash.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/JavaScriptFlashGateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/fingerprint.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body onload=&quot;callRVIDService();&quot;&gt;
+&lt;div class=&quot;redirectionMsg&quot;&gt;You are being redirected to the survey...&lt;/div&gt;
+&lt;div id=&quot;dyndata&quot;&gt;&lt;/div&gt;
+
+&lt;!-- form --&gt;
+&lt;form name=&quot;jsform&quot; id=&quot;jsform&quot; action=&quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioMbe-_vXF477-977-9MAA4AECwiZKFqypIzgtYAA/click/v&quot; method=&quot;post&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;isNewCookie&quot; id=&quot;isNewCookie&quot; value=&quot;0&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;cookieval&quot; id=&quot;cookieval&quot; value=&quot;&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;RVIDCompleted&quot; id=&quot;RVIDCompleted&quot; value=&quot;0&quot;/&gt;
+    
+&lt;/form&gt;
+
+&lt;script language=&quot;Javascript&quot;&gt;
+            var arrFlashData = getFlashVersion();
+            var nID = new Date().getTime();
+
+            //using the fingerprint.js make a unique fp for this browser
+            var FlashCookieVal= new Fingerprint({ie_activex: true,screen_resolution: true,canvas: true}).get();
+            var flash = new FlashProxy(nID, &quot;/pfs/resources/flash/JavaScriptFlashGateway.swf&quot;);
+            var isNewCookie = true;
+
+            function handleRedirect() {
+            	var PFSToken = &quot;_ggAEJTUFBjW5QQgmPmpDioMbe-_vXF477-977-9MAA4AECwiZKFqypIzgtYAA&quot;;
+            	if(typeof(Storage) !== &quot;undefined&quot; &amp;&amp; PFSToken) {
+            		sessionStorage.PFSToken = PFSToken;
+            	} else {
+            		// Sorry! No Web Storage support.  We still supports cookies
+            	}
+                if(arrFlashData[&quot;hasRequiredflashVersion&quot;]!=0){
+                    var ftMovie = new FlashTag(&quot;/pfs/resources/flash/CB_Cookie.swf&quot;, 300,300);
+                    ftMovie.setId(nID);
+                    ftMovie.setVersion(&apos;6,0,65,0&apos;);
+                    ftMovie.setFlashvars(&apos;lcId=&apos; + nID + &quot;&amp;jsGetFn=fetchCookie&amp;jsSetFn=loadPl&amp;fsObj=pcookies&quot;);
+                    ftMovie.write(document);
+                }else {
+                    loadPl(FlashCookieVal,isNewCookie,&apos;&apos;);
+                }
+            }
+
+            function waitForRelevantId(nTimes, FlashCookieVal, isNewCookie){
+                setTimeout(function () {
+                    if (--nTimes &amp;&amp; (document.getElementById(&apos;RVIDCompleted&apos;) == undefined || document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;)) {
+                        waitForRelevantId(nTimes, FlashCookieVal,isNewCookie);
+                    } else {
+                        internalLoadPl(FlashCookieVal,isNewCookie);
+                    }
+                }, 100);
+            }
+
+            function loadPl(FlashCookieVal,isNewCookie) {
+                waitForRelevantId(60, FlashCookieVal,isNewCookie); //wait up to 6 seconds for this;
+            }
+
+            function internalLoadPl(FlashCookieVal,isNewCookie) {
+                var plBaseUrl = &quot;https://www.q.ipoll.com/gw_sc_data_handler.php?PL=0&amp;PFSToken=_ggAEJTUFBjW5QQgmPmpDioMbe-_vXF477-977-9MAA4AECwiZKFqypIzgtYAA&amp;random=0.026237716739812234&quot;;
+                var plBaseUrlP = &quot;&quot;;
+
+                
+                if(document.getElementById(&apos;cookieval&apos;) &amp;&amp; FlashCookieVal!=&apos;&apos;){
+                    document.getElementById(&apos;cookieval&apos;).value = FlashCookieVal;
+                }
+
+                if(document.getElementById(&apos;isNewCookie&apos;) &amp;&amp; isNewCookie!=&apos;&apos;){
+                    document.getElementById(&apos;isNewCookie&apos;).value = isNewCookie;
+                }
+
+                if (document.getElementById(&apos;dyndata&apos;)){
+                    $(&apos;#dyndata&apos;).html(&apos;&lt;iframe src=&quot;&apos; + plBaseUrl + &apos;&quot; style=&quot;display:none&quot; onLoad = &quot;countFrame()&quot;&gt;&lt;/iframe&gt;&apos;);
+                }
+
+            }
+
+            var count = 0;
+            function countFrame() {
+                //Number of iFrame to be loaded before going away to a different page
+                if (++count &gt;= 1) {
+                    document.getElementById(&quot;jsform&quot;).submit();
+                }
+            }
+
+            function RVIDResponseComplete() {
+                document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;1&quot;;
+            }
+
+            function RVIDNoResponse() {
+                if (document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;) {
+                    console.log(&quot;Relevant id timed out&quot;);
+                    //Unlock the redirect
+                    document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;2&quot;;
+                }
+            }
+
+            function callRVIDService() {
+                
+                    
+                    
+                        document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;3&quot;;
+                    
+                
+            }
+
+            //Add the flash
+            handleRedirect();
+&lt;/script&gt;
+
+
+&lt;!-- Tagging Code --&gt;&lt;img src=&apos;http://b.voicefive.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=v&amp;cj=1&apos; /&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos; /&gt;&lt;/noscript&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//survey.questionmarket.com/panel/set_panel_dynamicookie.php?panel=24901&amp;panelist=30047384&apos;&gt;&lt;/script&gt;&lt;script  type=&apos;text/javascript&apos;&gt;(function () {  var js = document.createElement(&apos;script&apos;);  js.src = &apos;//gwiqcdn.globalwebindex.net/gwiq/gwiq.js&apos;;  js.type = &apos;text/javascript&apos;;  js.async = &apos;true&apos;;  js.onload = js.onreadystatechange = function () {    var rs = this.readyState;    if (rs &amp;&amp; rs != &apos;complete&apos; &amp;&amp; rs != &apos;loaded&apos;) return;    try {      gwiq.asyncjs(&apos;cid=c0005&amp;memberID=30047384&apos;);    } catch (e) { }  };  var s = document.getElementsByTagName(&apos;script&apos;)[0];  s.parentNode.insertBefore(js, s);})();&lt;/script&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//ad.insightexpressai.com/adserver/PanelistPartner.aspx/adserver/PanelistPartner.aspx?PartnerID=92&amp;PanelistID=30047384&apos;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&#xd;
+&lt;!DOCTYPE html&gt;&#xd;
+&lt;html xmlns=&quot;http://www.w3.org/1999/html&quot;&gt;&#xd;
+&lt;head&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if(&quot;function&quot;==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&amp;&amp;t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&amp;&amp;t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c&gt;u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i=&quot;nr@context&quot;,a=t(&quot;gos&quot;);e.exports=r()},{gos:&quot;7eSDFh&quot;}],ee:[function(t,e){e.exports=t(&quot;QJf3ax&quot;)},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t(&quot;handle&quot;),o=t(1),i=t(2);&quot;undefined&quot;==typeof window.newrelic&amp;&amp;(newrelic=window.NREUM);var a=[&quot;setPageViewName&quot;,&quot;addPageAction&quot;,&quot;setCustomAttribute&quot;,&quot;finished&quot;,&quot;addToTrace&quot;,&quot;inlineHit&quot;,&quot;noticeError&quot;];o(a,function(t,e){window.NREUM[e]=n(&quot;api-&quot;+e)}),e.exports=window.NREUM},{1:12,2:13,handle:&quot;D5DuLP&quot;}],gos:[function(t,e){e.exports=t(&quot;7eSDFh&quot;)},{}],&quot;7eSDFh&quot;:[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&amp;&amp;(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t(&quot;ee&quot;).create();e.exports=n,n.ee=r,r.q={}},{ee:&quot;QJf3ax&quot;}],handle:[function(t,e){e.exports=t(&quot;D5DuLP&quot;)},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||&quot;object&quot;!==e&amp;&amp;&quot;function&quot;!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o=&quot;nr@id&quot;,i=t(&quot;gos&quot;);e.exports=n},{gos:&quot;7eSDFh&quot;}],id:[function(t,e){e.exports=t(&quot;XL7HBI&quot;)},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName(&quot;script&quot;)[0];if(t&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;e){c(p,function(e,n){t[e]||(t[e]=n)});var n=&quot;https&quot;===s.split(&quot;:&quot;)[0]||t.sslForHttp;l.proto=n?&quot;https://&quot;:&quot;http://&quot;,a(&quot;mark&quot;,[&quot;onload&quot;,i()]);var r=f.createElement(&quot;script&quot;);r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){&quot;complete&quot;===f.readyState&amp;&amp;o()}function o(){a(&quot;mark&quot;,[&quot;domContent&quot;,i()])}function i(){return(new Date).getTime()}var a=t(&quot;handle&quot;),c=t(1),u=window,f=u.document;t(2);var s=(&quot;&quot;+location).split(&quot;?&quot;)[0],p={beacon:&quot;bam.nr-data.net&quot;,errorBeacon:&quot;bam.nr-data.net&quot;,agent:&quot;js-agent.newrelic.com/nr-852.min.js&quot;},d=window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener(&quot;DOMContentLoaded&quot;,o,!1),u.addEventListener(&quot;load&quot;,n,!1)):(f.attachEvent(&quot;onreadystatechange&quot;,r),u.attachEvent(&quot;onload&quot;,n)),a(&quot;mark&quot;,[&quot;firstbyte&quot;,i()]);var v=0},{1:12,2:3,handle:&quot;D5DuLP&quot;}],loader:[function(t,e){e.exports=t(&quot;G9z0Bl&quot;)},{}],12:[function(t,e){function n(t,e){var n=[],o=&quot;&quot;,i=0;for(o in t)r.call(t,o)&amp;&amp;(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),&quot;undefined&quot;==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},[&quot;G9z0Bl&quot;]);&lt;/script&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3899bf9b6e&quot;,&quot;applicationID&quot;:&quot;11131674&quot;,&quot;transactionName&quot;:&quot;M1cEZRcHXkUDVxJeVgodM0MMSVdBPUcFaF0FRgduDQdeUg5RFBlJDEI=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:114,&quot;atts&quot;:&quot;HxAHE18dTUs=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&lt;/script&gt;&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Apache Tomcat/8.0.12 - Error report&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}&lt;/style&gt; &lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 405 - Request method &apos;GET&apos; not supported&lt;/h1&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;type&lt;/b&gt; Status report&lt;/p&gt;&lt;p&gt;&lt;b&gt;message&lt;/b&gt; &lt;u&gt;Request method &apos;GET&apos; not supported&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;description&lt;/b&gt; &lt;u&gt;The specified HTTP method is not allowed for the requested resource.&lt;/u&gt;&lt;/p&gt;&lt;hr class=&quot;line&quot;&gt;&lt;h3&gt;Apache Tomcat/8.0.12&lt;/h3&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+</httpSample>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338558,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEP7UFBjv5gQgmPmpDioK77-977-9AR8SfDAAOABA386VhasqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$0.15 ($0.10)&quot;},{&quot;surveyId&quot;: 338452,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioMCu-_vRfvv73vv70cMAA4AEDfzpWFqypIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;},{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioK1q7vv70R77-9ZjAAOABA386VhasqSM4LWAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;meta http-equiv=&quot;Expires&quot; content=&quot;-1&quot;/&gt;
+    &lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+        body {
+            font-size: 12px;
+            color: #000;
+            background: white repeat-x left top;
+        }
+
+        .redirectionMsg {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    &lt;/style&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/gateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery-1.8.2.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery.flash.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/JavaScriptFlashGateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/fingerprint.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body onload=&quot;callRVIDService();&quot;&gt;
+&lt;div class=&quot;redirectionMsg&quot;&gt;You are being redirected to the survey...&lt;/div&gt;
+&lt;div id=&quot;dyndata&quot;&gt;&lt;/div&gt;
+
+&lt;!-- form --&gt;
+&lt;form name=&quot;jsform&quot; id=&quot;jsform&quot; action=&quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEP7UFBjv5gQgmPmpDioK77-977-9AR8SfDAAOABA386VhasqSM4LWAA/click/v&quot; method=&quot;post&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;isNewCookie&quot; id=&quot;isNewCookie&quot; value=&quot;0&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;cookieval&quot; id=&quot;cookieval&quot; value=&quot;&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;RVIDCompleted&quot; id=&quot;RVIDCompleted&quot; value=&quot;0&quot;/&gt;
+    
+&lt;/form&gt;
+
+&lt;script language=&quot;Javascript&quot;&gt;
+            var arrFlashData = getFlashVersion();
+            var nID = new Date().getTime();
+
+            //using the fingerprint.js make a unique fp for this browser
+            var FlashCookieVal= new Fingerprint({ie_activex: true,screen_resolution: true,canvas: true}).get();
+            var flash = new FlashProxy(nID, &quot;/pfs/resources/flash/JavaScriptFlashGateway.swf&quot;);
+            var isNewCookie = true;
+
+            function handleRedirect() {
+            	var PFSToken = &quot;_ggAEP7UFBjv5gQgmPmpDioK77-977-9AR8SfDAAOABA386VhasqSM4LWAA&quot;;
+            	if(typeof(Storage) !== &quot;undefined&quot; &amp;&amp; PFSToken) {
+            		sessionStorage.PFSToken = PFSToken;
+            	} else {
+            		// Sorry! No Web Storage support.  We still supports cookies
+            	}
+                if(arrFlashData[&quot;hasRequiredflashVersion&quot;]!=0){
+                    var ftMovie = new FlashTag(&quot;/pfs/resources/flash/CB_Cookie.swf&quot;, 300,300);
+                    ftMovie.setId(nID);
+                    ftMovie.setVersion(&apos;6,0,65,0&apos;);
+                    ftMovie.setFlashvars(&apos;lcId=&apos; + nID + &quot;&amp;jsGetFn=fetchCookie&amp;jsSetFn=loadPl&amp;fsObj=pcookies&quot;);
+                    ftMovie.write(document);
+                }else {
+                    loadPl(FlashCookieVal,isNewCookie,&apos;&apos;);
+                }
+            }
+
+            function waitForRelevantId(nTimes, FlashCookieVal, isNewCookie){
+                setTimeout(function () {
+                    if (--nTimes &amp;&amp; (document.getElementById(&apos;RVIDCompleted&apos;) == undefined || document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;)) {
+                        waitForRelevantId(nTimes, FlashCookieVal,isNewCookie);
+                    } else {
+                        internalLoadPl(FlashCookieVal,isNewCookie);
+                    }
+                }, 100);
+            }
+
+            function loadPl(FlashCookieVal,isNewCookie) {
+                waitForRelevantId(60, FlashCookieVal,isNewCookie); //wait up to 6 seconds for this;
+            }
+
+            function internalLoadPl(FlashCookieVal,isNewCookie) {
+                var plBaseUrl = &quot;https://www.q.ipoll.com/gw_sc_data_handler.php?PL=0&amp;PFSToken=_ggAEP7UFBjv5gQgmPmpDioK77-977-9AR8SfDAAOABA386VhasqSM4LWAA&amp;random=0.38682247591546015&quot;;
+                var plBaseUrlP = &quot;&quot;;
+
+                
+                if(document.getElementById(&apos;cookieval&apos;) &amp;&amp; FlashCookieVal!=&apos;&apos;){
+                    document.getElementById(&apos;cookieval&apos;).value = FlashCookieVal;
+                }
+
+                if(document.getElementById(&apos;isNewCookie&apos;) &amp;&amp; isNewCookie!=&apos;&apos;){
+                    document.getElementById(&apos;isNewCookie&apos;).value = isNewCookie;
+                }
+
+                if (document.getElementById(&apos;dyndata&apos;)){
+                    $(&apos;#dyndata&apos;).html(&apos;&lt;iframe src=&quot;&apos; + plBaseUrl + &apos;&quot; style=&quot;display:none&quot; onLoad = &quot;countFrame()&quot;&gt;&lt;/iframe&gt;&apos;);
+                }
+
+            }
+
+            var count = 0;
+            function countFrame() {
+                //Number of iFrame to be loaded before going away to a different page
+                if (++count &gt;= 1) {
+                    document.getElementById(&quot;jsform&quot;).submit();
+                }
+            }
+
+            function RVIDResponseComplete() {
+                document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;1&quot;;
+            }
+
+            function RVIDNoResponse() {
+                if (document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;) {
+                    console.log(&quot;Relevant id timed out&quot;);
+                    //Unlock the redirect
+                    document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;2&quot;;
+                }
+            }
+
+            function callRVIDService() {
+                
+                    
+                    
+                        document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;3&quot;;
+                    
+                
+            }
+
+            //Add the flash
+            handleRedirect();
+&lt;/script&gt;
+
+
+&lt;!-- Tagging Code --&gt;&lt;img src=&apos;http://b.voicefive.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=v&amp;cj=1&apos; /&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos; /&gt;&lt;/noscript&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//survey.questionmarket.com/panel/set_panel_dynamicookie.php?panel=24901&amp;panelist=30047384&apos;&gt;&lt;/script&gt;&lt;script  type=&apos;text/javascript&apos;&gt;(function () {  var js = document.createElement(&apos;script&apos;);  js.src = &apos;//gwiqcdn.globalwebindex.net/gwiq/gwiq.js&apos;;  js.type = &apos;text/javascript&apos;;  js.async = &apos;true&apos;;  js.onload = js.onreadystatechange = function () {    var rs = this.readyState;    if (rs &amp;&amp; rs != &apos;complete&apos; &amp;&amp; rs != &apos;loaded&apos;) return;    try {      gwiq.asyncjs(&apos;cid=c0005&amp;memberID=30047384&apos;);    } catch (e) { }  };  var s = document.getElementsByTagName(&apos;script&apos;)[0];  s.parentNode.insertBefore(js, s);})();&lt;/script&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//ad.insightexpressai.com/adserver/PanelistPartner.aspx/adserver/PanelistPartner.aspx?PartnerID=92&amp;PanelistID=30047384&apos;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&#xd;
+&lt;!DOCTYPE html&gt;&#xd;
+&lt;html xmlns=&quot;http://www.w3.org/1999/html&quot;&gt;&#xd;
+&lt;head&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if(&quot;function&quot;==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&amp;&amp;t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&amp;&amp;t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c&gt;u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i=&quot;nr@context&quot;,a=t(&quot;gos&quot;);e.exports=r()},{gos:&quot;7eSDFh&quot;}],ee:[function(t,e){e.exports=t(&quot;QJf3ax&quot;)},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t(&quot;handle&quot;),o=t(1),i=t(2);&quot;undefined&quot;==typeof window.newrelic&amp;&amp;(newrelic=window.NREUM);var a=[&quot;setPageViewName&quot;,&quot;addPageAction&quot;,&quot;setCustomAttribute&quot;,&quot;finished&quot;,&quot;addToTrace&quot;,&quot;inlineHit&quot;,&quot;noticeError&quot;];o(a,function(t,e){window.NREUM[e]=n(&quot;api-&quot;+e)}),e.exports=window.NREUM},{1:12,2:13,handle:&quot;D5DuLP&quot;}],gos:[function(t,e){e.exports=t(&quot;7eSDFh&quot;)},{}],&quot;7eSDFh&quot;:[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&amp;&amp;(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t(&quot;ee&quot;).create();e.exports=n,n.ee=r,r.q={}},{ee:&quot;QJf3ax&quot;}],handle:[function(t,e){e.exports=t(&quot;D5DuLP&quot;)},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||&quot;object&quot;!==e&amp;&amp;&quot;function&quot;!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o=&quot;nr@id&quot;,i=t(&quot;gos&quot;);e.exports=n},{gos:&quot;7eSDFh&quot;}],id:[function(t,e){e.exports=t(&quot;XL7HBI&quot;)},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName(&quot;script&quot;)[0];if(t&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;e){c(p,function(e,n){t[e]||(t[e]=n)});var n=&quot;https&quot;===s.split(&quot;:&quot;)[0]||t.sslForHttp;l.proto=n?&quot;https://&quot;:&quot;http://&quot;,a(&quot;mark&quot;,[&quot;onload&quot;,i()]);var r=f.createElement(&quot;script&quot;);r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){&quot;complete&quot;===f.readyState&amp;&amp;o()}function o(){a(&quot;mark&quot;,[&quot;domContent&quot;,i()])}function i(){return(new Date).getTime()}var a=t(&quot;handle&quot;),c=t(1),u=window,f=u.document;t(2);var s=(&quot;&quot;+location).split(&quot;?&quot;)[0],p={beacon:&quot;bam.nr-data.net&quot;,errorBeacon:&quot;bam.nr-data.net&quot;,agent:&quot;js-agent.newrelic.com/nr-852.min.js&quot;},d=window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener(&quot;DOMContentLoaded&quot;,o,!1),u.addEventListener(&quot;load&quot;,n,!1)):(f.attachEvent(&quot;onreadystatechange&quot;,r),u.attachEvent(&quot;onload&quot;,n)),a(&quot;mark&quot;,[&quot;firstbyte&quot;,i()]);var v=0},{1:12,2:3,handle:&quot;D5DuLP&quot;}],loader:[function(t,e){e.exports=t(&quot;G9z0Bl&quot;)},{}],12:[function(t,e){function n(t,e){var n=[],o=&quot;&quot;,i=0;for(o in t)r.call(t,o)&amp;&amp;(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),&quot;undefined&quot;==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},[&quot;G9z0Bl&quot;]);&lt;/script&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3899bf9b6e&quot;,&quot;applicationID&quot;:&quot;11131674&quot;,&quot;transactionName&quot;:&quot;M1cEZRcHXkUDVxJeVgodM0MMSVdBPUcFaF0FRgduDQdeUg5RFBlJDEI=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:81,&quot;ttGuid&quot;:&quot;&quot;,&quot;agentToken&quot;:&quot;&quot;,&quot;atts&quot;:&quot;HxAHE18dTUs=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&lt;/script&gt;&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Apache Tomcat/8.0.12 - Error report&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}&lt;/style&gt; &lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 - Required String parameter &apos;cookieval&apos; is not present&lt;/h1&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;type&lt;/b&gt; Status report&lt;/p&gt;&lt;p&gt;&lt;b&gt;message&lt;/b&gt; &lt;u&gt;Required String parameter &apos;cookieval&apos; is not present&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;description&lt;/b&gt; &lt;u&gt;The request sent by the client was syntactically incorrect.&lt;/u&gt;&lt;/p&gt;&lt;hr class=&quot;line&quot;&gt;&lt;h3&gt;Apache Tomcat/8.0.12&lt;/h3&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+</httpSample>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338452,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioIVinvv701KHowADgAQNySn4WrKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;},{&quot;surveyId&quot;: 338558,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEP7UFBjv5gQgmPmpDioOfu-_vR_vv73vv73vv70wADgAQNySn4WrKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$0.15 ($0.10)&quot;},{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioM77-977-9AX9r77-9MAA4AEDckp-FqypIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;meta http-equiv=&quot;Expires&quot; content=&quot;-1&quot;/&gt;
+    &lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+        body {
+            font-size: 12px;
+            color: #000;
+            background: white repeat-x left top;
+        }
+
+        .redirectionMsg {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    &lt;/style&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/gateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery-1.8.2.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery.flash.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/JavaScriptFlashGateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/fingerprint.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body onload=&quot;callRVIDService();&quot;&gt;
+&lt;div class=&quot;redirectionMsg&quot;&gt;You are being redirected to the survey...&lt;/div&gt;
+&lt;div id=&quot;dyndata&quot;&gt;&lt;/div&gt;
+
+&lt;!-- form --&gt;
+&lt;form name=&quot;jsform&quot; id=&quot;jsform&quot; action=&quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioIVinvv701KHowADgAQNySn4WrKkjOC1gA/click/v&quot; method=&quot;post&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;isNewCookie&quot; id=&quot;isNewCookie&quot; value=&quot;0&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;cookieval&quot; id=&quot;cookieval&quot; value=&quot;&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;RVIDCompleted&quot; id=&quot;RVIDCompleted&quot; value=&quot;0&quot;/&gt;
+    
+&lt;/form&gt;
+
+&lt;script language=&quot;Javascript&quot;&gt;
+            var arrFlashData = getFlashVersion();
+            var nID = new Date().getTime();
+
+            //using the fingerprint.js make a unique fp for this browser
+            var FlashCookieVal= new Fingerprint({ie_activex: true,screen_resolution: true,canvas: true}).get();
+            var flash = new FlashProxy(nID, &quot;/pfs/resources/flash/JavaScriptFlashGateway.swf&quot;);
+            var isNewCookie = true;
+
+            function handleRedirect() {
+            	var PFSToken = &quot;_ggAEJTUFBjW5QQgmPmpDioIVinvv701KHowADgAQNySn4WrKkjOC1gA&quot;;
+            	if(typeof(Storage) !== &quot;undefined&quot; &amp;&amp; PFSToken) {
+            		sessionStorage.PFSToken = PFSToken;
+            	} else {
+            		// Sorry! No Web Storage support.  We still supports cookies
+            	}
+                if(arrFlashData[&quot;hasRequiredflashVersion&quot;]!=0){
+                    var ftMovie = new FlashTag(&quot;/pfs/resources/flash/CB_Cookie.swf&quot;, 300,300);
+                    ftMovie.setId(nID);
+                    ftMovie.setVersion(&apos;6,0,65,0&apos;);
+                    ftMovie.setFlashvars(&apos;lcId=&apos; + nID + &quot;&amp;jsGetFn=fetchCookie&amp;jsSetFn=loadPl&amp;fsObj=pcookies&quot;);
+                    ftMovie.write(document);
+                }else {
+                    loadPl(FlashCookieVal,isNewCookie,&apos;&apos;);
+                }
+            }
+
+            function waitForRelevantId(nTimes, FlashCookieVal, isNewCookie){
+                setTimeout(function () {
+                    if (--nTimes &amp;&amp; (document.getElementById(&apos;RVIDCompleted&apos;) == undefined || document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;)) {
+                        waitForRelevantId(nTimes, FlashCookieVal,isNewCookie);
+                    } else {
+                        internalLoadPl(FlashCookieVal,isNewCookie);
+                    }
+                }, 100);
+            }
+
+            function loadPl(FlashCookieVal,isNewCookie) {
+                waitForRelevantId(60, FlashCookieVal,isNewCookie); //wait up to 6 seconds for this;
+            }
+
+            function internalLoadPl(FlashCookieVal,isNewCookie) {
+                var plBaseUrl = &quot;https://www.q.ipoll.com/gw_sc_data_handler.php?PL=0&amp;PFSToken=_ggAEJTUFBjW5QQgmPmpDioIVinvv701KHowADgAQNySn4WrKkjOC1gA&amp;random=0.6708589796343859&quot;;
+                var plBaseUrlP = &quot;&quot;;
+
+                
+                if(document.getElementById(&apos;cookieval&apos;) &amp;&amp; FlashCookieVal!=&apos;&apos;){
+                    document.getElementById(&apos;cookieval&apos;).value = FlashCookieVal;
+                }
+
+                if(document.getElementById(&apos;isNewCookie&apos;) &amp;&amp; isNewCookie!=&apos;&apos;){
+                    document.getElementById(&apos;isNewCookie&apos;).value = isNewCookie;
+                }
+
+                if (document.getElementById(&apos;dyndata&apos;)){
+                    $(&apos;#dyndata&apos;).html(&apos;&lt;iframe src=&quot;&apos; + plBaseUrl + &apos;&quot; style=&quot;display:none&quot; onLoad = &quot;countFrame()&quot;&gt;&lt;/iframe&gt;&apos;);
+                }
+
+            }
+
+            var count = 0;
+            function countFrame() {
+                //Number of iFrame to be loaded before going away to a different page
+                if (++count &gt;= 1) {
+                    document.getElementById(&quot;jsform&quot;).submit();
+                }
+            }
+
+            function RVIDResponseComplete() {
+                document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;1&quot;;
+            }
+
+            function RVIDNoResponse() {
+                if (document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;) {
+                    console.log(&quot;Relevant id timed out&quot;);
+                    //Unlock the redirect
+                    document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;2&quot;;
+                }
+            }
+
+            function callRVIDService() {
+                
+                    
+                    
+                        document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;3&quot;;
+                    
+                
+            }
+
+            //Add the flash
+            handleRedirect();
+&lt;/script&gt;
+
+
+&lt;!-- Tagging Code --&gt;&lt;img src=&apos;http://b.voicefive.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=v&amp;cj=1&apos; /&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos; /&gt;&lt;/noscript&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//survey.questionmarket.com/panel/set_panel_dynamicookie.php?panel=24901&amp;panelist=30047384&apos;&gt;&lt;/script&gt;&lt;script  type=&apos;text/javascript&apos;&gt;(function () {  var js = document.createElement(&apos;script&apos;);  js.src = &apos;//gwiqcdn.globalwebindex.net/gwiq/gwiq.js&apos;;  js.type = &apos;text/javascript&apos;;  js.async = &apos;true&apos;;  js.onload = js.onreadystatechange = function () {    var rs = this.readyState;    if (rs &amp;&amp; rs != &apos;complete&apos; &amp;&amp; rs != &apos;loaded&apos;) return;    try {      gwiq.asyncjs(&apos;cid=c0005&amp;memberID=30047384&apos;);    } catch (e) { }  };  var s = document.getElementsByTagName(&apos;script&apos;)[0];  s.parentNode.insertBefore(js, s);})();&lt;/script&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//ad.insightexpressai.com/adserver/PanelistPartner.aspx/adserver/PanelistPartner.aspx?PartnerID=92&amp;PanelistID=30047384&apos;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&#xd;
+&lt;!DOCTYPE html&gt;&#xd;
+&lt;html xmlns=&quot;http://www.w3.org/1999/html&quot;&gt;&#xd;
+&lt;head&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if(&quot;function&quot;==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&amp;&amp;t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&amp;&amp;t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c&gt;u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i=&quot;nr@context&quot;,a=t(&quot;gos&quot;);e.exports=r()},{gos:&quot;7eSDFh&quot;}],ee:[function(t,e){e.exports=t(&quot;QJf3ax&quot;)},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t(&quot;handle&quot;),o=t(1),i=t(2);&quot;undefined&quot;==typeof window.newrelic&amp;&amp;(newrelic=window.NREUM);var a=[&quot;setPageViewName&quot;,&quot;addPageAction&quot;,&quot;setCustomAttribute&quot;,&quot;finished&quot;,&quot;addToTrace&quot;,&quot;inlineHit&quot;,&quot;noticeError&quot;];o(a,function(t,e){window.NREUM[e]=n(&quot;api-&quot;+e)}),e.exports=window.NREUM},{1:12,2:13,handle:&quot;D5DuLP&quot;}],gos:[function(t,e){e.exports=t(&quot;7eSDFh&quot;)},{}],&quot;7eSDFh&quot;:[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&amp;&amp;(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t(&quot;ee&quot;).create();e.exports=n,n.ee=r,r.q={}},{ee:&quot;QJf3ax&quot;}],handle:[function(t,e){e.exports=t(&quot;D5DuLP&quot;)},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||&quot;object&quot;!==e&amp;&amp;&quot;function&quot;!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o=&quot;nr@id&quot;,i=t(&quot;gos&quot;);e.exports=n},{gos:&quot;7eSDFh&quot;}],id:[function(t,e){e.exports=t(&quot;XL7HBI&quot;)},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName(&quot;script&quot;)[0];if(t&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;e){c(p,function(e,n){t[e]||(t[e]=n)});var n=&quot;https&quot;===s.split(&quot;:&quot;)[0]||t.sslForHttp;l.proto=n?&quot;https://&quot;:&quot;http://&quot;,a(&quot;mark&quot;,[&quot;onload&quot;,i()]);var r=f.createElement(&quot;script&quot;);r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){&quot;complete&quot;===f.readyState&amp;&amp;o()}function o(){a(&quot;mark&quot;,[&quot;domContent&quot;,i()])}function i(){return(new Date).getTime()}var a=t(&quot;handle&quot;),c=t(1),u=window,f=u.document;t(2);var s=(&quot;&quot;+location).split(&quot;?&quot;)[0],p={beacon:&quot;bam.nr-data.net&quot;,errorBeacon:&quot;bam.nr-data.net&quot;,agent:&quot;js-agent.newrelic.com/nr-852.min.js&quot;},d=window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener(&quot;DOMContentLoaded&quot;,o,!1),u.addEventListener(&quot;load&quot;,n,!1)):(f.attachEvent(&quot;onreadystatechange&quot;,r),u.attachEvent(&quot;onload&quot;,n)),a(&quot;mark&quot;,[&quot;firstbyte&quot;,i()]);var v=0},{1:12,2:3,handle:&quot;D5DuLP&quot;}],loader:[function(t,e){e.exports=t(&quot;G9z0Bl&quot;)},{}],12:[function(t,e){function n(t,e){var n=[],o=&quot;&quot;,i=0;for(o in t)r.call(t,o)&amp;&amp;(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),&quot;undefined&quot;==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},[&quot;G9z0Bl&quot;]);&lt;/script&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3899bf9b6e&quot;,&quot;applicationID&quot;:&quot;11131674&quot;,&quot;transactionName&quot;:&quot;M1cEZRcHXkUDVxJeVgodM0MMSVdBPUcFaF0FRgduDQdeUg5RFBlJDEI=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:80,&quot;atts&quot;:&quot;HxAHE18dTUs=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&lt;/script&gt;&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Apache Tomcat/8.0.12 - Error report&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}&lt;/style&gt; &lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 - Required String parameter &apos;cookieval&apos; is not present&lt;/h1&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;type&lt;/b&gt; Status report&lt;/p&gt;&lt;p&gt;&lt;b&gt;message&lt;/b&gt; &lt;u&gt;Required String parameter &apos;cookieval&apos; is not present&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;description&lt;/b&gt; &lt;u&gt;The request sent by the client was syntactically incorrect.&lt;/u&gt;&lt;/p&gt;&lt;hr class=&quot;line&quot;&gt;&lt;h3&gt;Apache Tomcat/8.0.12&lt;/h3&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Apache Tomcat/8.0.12 - Error report&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}&lt;/style&gt; &lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 - Required String parameter &apos;cookieval&apos; is not present&lt;/h1&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;type&lt;/b&gt; Status report&lt;/p&gt;&lt;p&gt;&lt;b&gt;message&lt;/b&gt; &lt;u&gt;Required String parameter &apos;cookieval&apos; is not present&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;description&lt;/b&gt; &lt;u&gt;The request sent by the client was syntactically incorrect.&lt;/u&gt;&lt;/p&gt;&lt;hr class=&quot;line&quot;&gt;&lt;h3&gt;Apache Tomcat/8.0.12&lt;/h3&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+</httpSample>
+
+<httpSample>
+  <responseData class="java.lang.String">{&quot;surveys&quot;: [{&quot;surveyId&quot;: 338558,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEP7UFBjv5gQgmPmpDioIFSJvHO-_vS8wADgAQLWmq4WrKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$0.15 ($0.10)&quot;},{&quot;surveyId&quot;: 338452,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEJTUFBjW5QQgmPmpDioM77-9bu-_ve-_vU49MAA4AEC1pquFqypIzgtYAA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;},{&quot;surveyId&quot;: 338444,&quot;cpi&quot;: &quot;66.30&quot;,&quot;loi&quot;: 1,&quot;link&quot;: &quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEIzUFBjW5QQgmPmpDioIAmrvv70GOj0wADgAQLWmq4WrKkjOC1gA/click&quot;,&quot;reward&quot;: &quot;$15.09 ($10.00)&quot;}]}</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta http-equiv=&quot;Pragma&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;meta http-equiv=&quot;Expires&quot; content=&quot;-1&quot;/&gt;
+    &lt;meta http-equiv=&quot;Cache-Control&quot; content=&quot;no-cache&quot;/&gt;
+    &lt;style type=&quot;text/css&quot;&gt;
+        body {
+            font-size: 12px;
+            color: #000;
+            background: white repeat-x left top;
+        }
+
+        .redirectionMsg {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    &lt;/style&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/gateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery-1.8.2.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/jquery.flash.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/JavaScriptFlashGateway.js&quot;&gt;&lt;/script&gt;
+    &lt;script type=&quot;text/javascript&quot; src=&quot;/pfs/resources/js/fingerprint.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body onload=&quot;callRVIDService();&quot;&gt;
+&lt;div class=&quot;redirectionMsg&quot;&gt;You are being redirected to the survey...&lt;/div&gt;
+&lt;div id=&quot;dyndata&quot;&gt;&lt;/div&gt;
+
+&lt;!-- form --&gt;
+&lt;form name=&quot;jsform&quot; id=&quot;jsform&quot; action=&quot;//q.www.instant.ly/pfs/api/publisher/1486/panel/0/_ggAEP7UFBjv5gQgmPmpDioIFSJvHO-_vS8wADgAQLWmq4WrKkjOC1gA/click/v&quot; method=&quot;post&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;isNewCookie&quot; id=&quot;isNewCookie&quot; value=&quot;0&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;cookieval&quot; id=&quot;cookieval&quot; value=&quot;&quot;&gt;
+    &lt;input type=&quot;hidden&quot; name=&quot;RVIDCompleted&quot; id=&quot;RVIDCompleted&quot; value=&quot;0&quot;/&gt;
+    
+&lt;/form&gt;
+
+&lt;script language=&quot;Javascript&quot;&gt;
+            var arrFlashData = getFlashVersion();
+            var nID = new Date().getTime();
+
+            //using the fingerprint.js make a unique fp for this browser
+            var FlashCookieVal= new Fingerprint({ie_activex: true,screen_resolution: true,canvas: true}).get();
+            var flash = new FlashProxy(nID, &quot;/pfs/resources/flash/JavaScriptFlashGateway.swf&quot;);
+            var isNewCookie = true;
+
+            function handleRedirect() {
+            	var PFSToken = &quot;_ggAEP7UFBjv5gQgmPmpDioIFSJvHO-_vS8wADgAQLWmq4WrKkjOC1gA&quot;;
+            	if(typeof(Storage) !== &quot;undefined&quot; &amp;&amp; PFSToken) {
+            		sessionStorage.PFSToken = PFSToken;
+            	} else {
+            		// Sorry! No Web Storage support.  We still supports cookies
+            	}
+                if(arrFlashData[&quot;hasRequiredflashVersion&quot;]!=0){
+                    var ftMovie = new FlashTag(&quot;/pfs/resources/flash/CB_Cookie.swf&quot;, 300,300);
+                    ftMovie.setId(nID);
+                    ftMovie.setVersion(&apos;6,0,65,0&apos;);
+                    ftMovie.setFlashvars(&apos;lcId=&apos; + nID + &quot;&amp;jsGetFn=fetchCookie&amp;jsSetFn=loadPl&amp;fsObj=pcookies&quot;);
+                    ftMovie.write(document);
+                }else {
+                    loadPl(FlashCookieVal,isNewCookie,&apos;&apos;);
+                }
+            }
+
+            function waitForRelevantId(nTimes, FlashCookieVal, isNewCookie){
+                setTimeout(function () {
+                    if (--nTimes &amp;&amp; (document.getElementById(&apos;RVIDCompleted&apos;) == undefined || document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;)) {
+                        waitForRelevantId(nTimes, FlashCookieVal,isNewCookie);
+                    } else {
+                        internalLoadPl(FlashCookieVal,isNewCookie);
+                    }
+                }, 100);
+            }
+
+            function loadPl(FlashCookieVal,isNewCookie) {
+                waitForRelevantId(60, FlashCookieVal,isNewCookie); //wait up to 6 seconds for this;
+            }
+
+            function internalLoadPl(FlashCookieVal,isNewCookie) {
+                var plBaseUrl = &quot;https://www.q.ipoll.com/gw_sc_data_handler.php?PL=0&amp;PFSToken=_ggAEP7UFBjv5gQgmPmpDioIFSJvHO-_vS8wADgAQLWmq4WrKkjOC1gA&amp;random=0.9711675882460249&quot;;
+                var plBaseUrlP = &quot;&quot;;
+
+                
+                if(document.getElementById(&apos;cookieval&apos;) &amp;&amp; FlashCookieVal!=&apos;&apos;){
+                    document.getElementById(&apos;cookieval&apos;).value = FlashCookieVal;
+                }
+
+                if(document.getElementById(&apos;isNewCookie&apos;) &amp;&amp; isNewCookie!=&apos;&apos;){
+                    document.getElementById(&apos;isNewCookie&apos;).value = isNewCookie;
+                }
+
+                if (document.getElementById(&apos;dyndata&apos;)){
+                    $(&apos;#dyndata&apos;).html(&apos;&lt;iframe src=&quot;&apos; + plBaseUrl + &apos;&quot; style=&quot;display:none&quot; onLoad = &quot;countFrame()&quot;&gt;&lt;/iframe&gt;&apos;);
+                }
+
+            }
+
+            var count = 0;
+            function countFrame() {
+                //Number of iFrame to be loaded before going away to a different page
+                if (++count &gt;= 1) {
+                    document.getElementById(&quot;jsform&quot;).submit();
+                }
+            }
+
+            function RVIDResponseComplete() {
+                document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;1&quot;;
+            }
+
+            function RVIDNoResponse() {
+                if (document.getElementById(&apos;RVIDCompleted&apos;).value == &quot;0&quot;) {
+                    console.log(&quot;Relevant id timed out&quot;);
+                    //Unlock the redirect
+                    document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;2&quot;;
+                }
+            }
+
+            function callRVIDService() {
+                
+                    
+                    
+                        document.getElementById(&apos;RVIDCompleted&apos;).value = &quot;3&quot;;
+                    
+                
+            }
+
+            //Add the flash
+            handleRedirect();
+&lt;/script&gt;
+
+
+&lt;!-- Tagging Code --&gt;&lt;img src=&apos;http://b.voicefive.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=v&amp;cj=1&apos; /&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;img src=&apos;http://b.scorecardresearch.com/p?c1=14&amp;c2=10586879&amp;c3=30047384&amp;c4=s&amp;cj=1&apos; /&gt;&lt;/noscript&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//survey.questionmarket.com/panel/set_panel_dynamicookie.php?panel=24901&amp;panelist=30047384&apos;&gt;&lt;/script&gt;&lt;script  type=&apos;text/javascript&apos;&gt;(function () {  var js = document.createElement(&apos;script&apos;);  js.src = &apos;//gwiqcdn.globalwebindex.net/gwiq/gwiq.js&apos;;  js.type = &apos;text/javascript&apos;;  js.async = &apos;true&apos;;  js.onload = js.onreadystatechange = function () {    var rs = this.readyState;    if (rs &amp;&amp; rs != &apos;complete&apos; &amp;&amp; rs != &apos;loaded&apos;) return;    try {      gwiq.asyncjs(&apos;cid=c0005&amp;memberID=30047384&apos;);    } catch (e) { }  };  var s = document.getElementsByTagName(&apos;script&apos;)[0];  s.parentNode.insertBefore(js, s);})();&lt;/script&gt;&lt;script type=&apos;text/javascript&apos; src=&apos;//ad.insightexpressai.com/adserver/PanelistPartner.aspx/adserver/PanelistPartner.aspx?PartnerID=92&amp;PanelistID=30047384&apos;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+
+&lt;!--//////////////////////////////////////////////////////////////////////////
+//
+//    Copyright (c) 1996 - 2011, Websense, Inc.    All Rights Reserved
+//    See WebsenseCopyright.txt for copyright information
+//
+///////////////////////////////////////////////////////////////////////////--&gt;
+
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;title&gt;Access to this site is blocked&lt;/title&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/en/Default/master.css&quot; type=&quot;text/css&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/en/Default/master.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/en/Default/base64.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/en/Default/security.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!--[if lt IE 7]&gt; &lt;div style=&quot;width: 725px;&quot;&gt; &lt;![endif]--&gt;
+&lt;div style=&quot;border: 1px solid #285EA6;width: 95%; max-width: 700px; overflow: hidden; margin-left: 10px; background-color: #EEF2F7;&quot;&gt;
+	&lt;iframe src=&quot;http://10.77.224.106:15871/cgi-bin/block_message.cgi?ws-session=3089940761&quot; title=&quot;test&quot; name=&quot;ws_block&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; style=&quot;width:100%; height: 10em;&quot;&gt;
+
+	&lt;/iframe&gt;
+	&lt;iframe src=&quot;http://10.77.224.106:15871/cgi-bin/blockOptions.cgi?ws-session=3089940761&quot; name=&quot;ws_blockoption&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; style=&quot;width:100%; height: 17.5em;&quot;&gt;
+		&lt;p&gt;To enable further options, view this page with a browser that supports iframes&lt;/p&gt;
+	&lt;/iframe&gt;
+	&lt;div&gt;&lt;img title=&quot;Websense&quot; src=&quot;/Images/wslogo_block_page.png&quot; alt=&quot;Websense Logo&quot; style=&quot;float: right;clear: both;margin: 0px 10px 6px 0px; padding: 2px 0px;&quot;&gt;
+		&lt;div style=&quot;clear: both; overflow: hidden; height:1px;&quot;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!--[if lt IE 7]&gt; &lt;/div&gt; &lt;![endif]--&gt;
+&lt;div id=&quot;light&quot; class=&quot;white_content&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;fade&quot; class=&quot;black_overlay&quot;&gt;&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&#xd;
+&lt;html&gt;&#xd;
+    &lt;head&gt;&#xd;
+        &lt;title&gt;Runtime Error&lt;/title&gt;&#xd;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;&#xd;
+        &lt;style&gt;&#xd;
+         body {font-family:&quot;Verdana&quot;;font-weight:normal;font-size: .7em;color:black;} &#xd;
+         p {font-family:&quot;Verdana&quot;;font-weight:normal;color:black;margin-top: -5px}&#xd;
+         b {font-family:&quot;Verdana&quot;;font-weight:bold;color:black;margin-top: -5px}&#xd;
+         H1 { font-family:&quot;Verdana&quot;;font-weight:normal;font-size:18pt;color:red }&#xd;
+         H2 { font-family:&quot;Verdana&quot;;font-weight:normal;font-size:14pt;color:maroon }&#xd;
+         pre {font-family:&quot;Consolas&quot;,&quot;Lucida Console&quot;,Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}&#xd;
+         .marker {font-weight: bold; color: black;text-decoration: none;}&#xd;
+         .version {color: gray;}&#xd;
+         .error {margin-bottom: 10px;}&#xd;
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }&#xd;
+         @media screen and (max-width: 639px) {&#xd;
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }&#xd;
+         }&#xd;
+         @media screen and (max-width: 479px) {&#xd;
+          pre { width: 280px; }&#xd;
+         }&#xd;
+        &lt;/style&gt;&#xd;
+    &lt;/head&gt;&#xd;
+&#xd;
+    &lt;body bgcolor=&quot;white&quot;&gt;&#xd;
+&#xd;
+            &lt;span&gt;&lt;H1&gt;Server Error in &apos;/Adserver&apos; Application.&lt;hr width=100% size=1 color=silver&gt;&lt;/H1&gt;&#xd;
+&#xd;
+            &lt;h2&gt; &lt;i&gt;Runtime Error&lt;/i&gt; &lt;/h2&gt;&lt;/span&gt;&#xd;
+&#xd;
+            &lt;font face=&quot;Arial, Helvetica, Geneva, SunSans-Regular, sans-serif &quot;&gt;&#xd;
+&#xd;
+            &lt;b&gt; Description: &lt;/b&gt;An application error occurred on the server. The current custom error settings for this application prevent the details of the application error from being viewed remotely (for security reasons). It could, however, be viewed by browsers running on the local server machine.&#xd;
+            &lt;br&gt;&lt;br&gt;&#xd;
+&#xd;
+            &lt;b&gt;Details:&lt;/b&gt; To enable the details of this specific error message to be viewable on remote machines, please create a &amp;lt;customErrors&amp;gt; tag within a &amp;quot;web.config&amp;quot; configuration file located in the root directory of the current web application. This &amp;lt;customErrors&amp;gt; tag should then have its &amp;quot;mode&amp;quot; attribute set to &amp;quot;Off&amp;quot;.&lt;br&gt;&lt;br&gt;&#xd;
+&#xd;
+            &lt;table width=100% bgcolor=&quot;#ffffcc&quot;&gt;&#xd;
+               &lt;tr&gt;&#xd;
+                  &lt;td&gt;&#xd;
+                      &lt;code&gt;&lt;pre&gt;&#xd;
+&#xd;
+&amp;lt;!-- Web.Config Configuration File --&amp;gt;&#xd;
+&#xd;
+&amp;lt;configuration&amp;gt;&#xd;
+    &amp;lt;system.web&amp;gt;&#xd;
+        &amp;lt;customErrors mode=&amp;quot;Off&amp;quot;/&amp;gt;&#xd;
+    &amp;lt;/system.web&amp;gt;&#xd;
+&amp;lt;/configuration&amp;gt;&lt;/pre&gt;&lt;/code&gt;&#xd;
+&#xd;
+                  &lt;/td&gt;&#xd;
+               &lt;/tr&gt;&#xd;
+            &lt;/table&gt;&#xd;
+&#xd;
+            &lt;br&gt;&#xd;
+&#xd;
+            &lt;b&gt;Notes:&lt;/b&gt; The current error page you are seeing can be replaced by a custom error page by modifying the &amp;quot;defaultRedirect&amp;quot; attribute of the application&amp;#39;s &amp;lt;customErrors&amp;gt; configuration tag to point to a custom error page URL.&lt;br&gt;&lt;br&gt;&#xd;
+&#xd;
+            &lt;table width=100% bgcolor=&quot;#ffffcc&quot;&gt;&#xd;
+               &lt;tr&gt;&#xd;
+                  &lt;td&gt;&#xd;
+                      &lt;code&gt;&lt;pre&gt;&#xd;
+&#xd;
+&amp;lt;!-- Web.Config Configuration File --&amp;gt;&#xd;
+&#xd;
+&amp;lt;configuration&amp;gt;&#xd;
+    &amp;lt;system.web&amp;gt;&#xd;
+        &amp;lt;customErrors mode=&amp;quot;RemoteOnly&amp;quot; defaultRedirect=&amp;quot;mycustompage.htm&amp;quot;/&amp;gt;&#xd;
+    &amp;lt;/system.web&amp;gt;&#xd;
+&amp;lt;/configuration&amp;gt;&lt;/pre&gt;&lt;/code&gt;&#xd;
+&#xd;
+                  &lt;/td&gt;&#xd;
+               &lt;/tr&gt;&#xd;
+            &lt;/table&gt;&#xd;
+&#xd;
+            &lt;br&gt;&#xd;
+&#xd;
+    &lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;HTML&gt;&#xd;
+&lt;HEAD&gt;&#xd;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;; charset=&quot;UTF-8&quot;&gt;&#xd;
+&lt;TITLE&gt;Error&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;BODY TEXT=BLACK BGCOLOR=WHITE&gt;&#xd;
+&lt;H1&gt;Session Timeout&lt;/H1&gt;&#xd;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String"/>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01 Transitional//EN&quot; &quot;http://www.w3.org/TR/html4/loose.dtd&quot;&gt;
+
+&lt;!--//////////////////////////////////////////////////////////////////////////
+//
+//    Copyright (c) 1996 - 2011, Websense, Inc.    All Rights Reserved
+//    See WebsenseCopyright.txt for copyright information
+//
+///////////////////////////////////////////////////////////////////////////--&gt;
+
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+&lt;title&gt;Access to this site is blocked&lt;/title&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/en/Default/master.css&quot; type=&quot;text/css&quot;&gt;
+&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/en/Default/master.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/en/Default/base64.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; language=&quot;javascript&quot; src=&quot;/en/Default/security.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!--[if lt IE 7]&gt; &lt;div style=&quot;width: 725px;&quot;&gt; &lt;![endif]--&gt;
+&lt;div style=&quot;border: 1px solid #285EA6;width: 95%; max-width: 700px; overflow: hidden; margin-left: 10px; background-color: #EEF2F7;&quot;&gt;
+	&lt;iframe src=&quot;http://10.77.224.106:15871/cgi-bin/block_message.cgi?ws-session=2217525545&quot; title=&quot;test&quot; name=&quot;ws_block&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; style=&quot;width:100%; height: 10em;&quot;&gt;
+
+	&lt;/iframe&gt;
+	&lt;iframe src=&quot;http://10.77.224.106:15871/cgi-bin/blockOptions.cgi?ws-session=2217525545&quot; name=&quot;ws_blockoption&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; style=&quot;width:100%; height: 17.5em;&quot;&gt;
+		&lt;p&gt;To enable further options, view this page with a browser that supports iframes&lt;/p&gt;
+	&lt;/iframe&gt;
+	&lt;div&gt;&lt;img title=&quot;Websense&quot; src=&quot;/Images/wslogo_block_page.png&quot; alt=&quot;Websense Logo&quot; style=&quot;float: right;clear: both;margin: 0px 10px 6px 0px; padding: 2px 0px;&quot;&gt;
+		&lt;div style=&quot;clear: both; overflow: hidden; height:1px;&quot;&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;!--[if lt IE 7]&gt; &lt;/div&gt; &lt;![endif]--&gt;
+&lt;div id=&quot;light&quot; class=&quot;white_content&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;fade&quot; class=&quot;black_overlay&quot;&gt;&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;HTML&gt;&#xd;
+&lt;HEAD&gt;&#xd;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html&quot;; charset=&quot;UTF-8&quot;&gt;&#xd;
+&lt;TITLE&gt;Error&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;BODY TEXT=BLACK BGCOLOR=WHITE&gt;&#xd;
+&lt;H1&gt;Session Timeout&lt;/H1&gt;&#xd;
+&lt;/BODY&gt;&lt;/HTML&gt;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot; &quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;&#xd;
+	&lt;html&gt;&#xd;
+	&lt;body&gt;&#xd;
+	&#xd;
+		&lt;object classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8&quot;&amp;#10;width=&quot;320&quot; height=&quot;220&quot; id=&quot;theMediaPlayer&quot;&gt;&#xd;
+		&lt;param name=movie value=&quot;fscookie/fscookie.swf&quot;&gt;&#xd;
+		&lt;param name=quality value=&quot;high&quot;&gt;&#xd;
+		&lt;param name=bgcolor value=&quot;#FFFFFF&quot;&gt;&#xd;
+		&lt;param name=allowFullScreen value=&quot;true&quot;&gt;&#xd;
+		&lt;param name=swLiveConnect value=&quot;true&quot;&gt;&#xd;
+		&lt;param name=allowScriptAccess value=&quot;always&quot;&gt;&#xd;
+		&lt;param name=&quot;FlashVars&quot; value=&quot;file=afraid.flv&amp;width=320&amp;height=220&amp;displayheight=200&amp;autostart=true&amp;usefullscreen=true&amp;backcolor=0xFFFFFF&amp;javascriptid=theMediaPlayer&quot;&gt;&#xd;
+&#xd;
+		&lt;embed type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot; width=&quot;320&quot; height=&quot;220&quot; bgcolor=&quot;#FFFFFF&quot; name=&quot;theMediaPlayer&quot;&#xd;
+		src=&quot;fscookie/fscookie.swf&quot;&#xd;
+		flashvars=&quot;file=afraid.flv&amp;width=320&amp;height=220&amp;displayheight=200&amp;autostart=true&amp;usefullscreen=true&amp;backcolor=0xFFFFFF&amp;javascriptid=theMediaPlayer&quot;&gt;&#xd;
+		&lt;/embed&gt;&#xd;
+		&lt;/object&gt;&#xd;
+&#xd;
+	&lt;script&gt;&#xd;
+	&#xd;
+	&#xd;
+&#xd;
+&#xd;
+var InsightExpress = {};&#xd;
+InsightExpress.AddProps = function(c, proto) { for (var i in proto) { if (typeof proto[i] != &apos;function&apos;) c[i] = proto[i]; } }&#xd;
+InsightExpress.Protocol = &apos;http://&apos;;&#xd;
+InsightExpress.DomainName = &apos;ad.insightexpressai.com&apos;;&#xd;
+var inIframe = true;&#xd;
+&#xd;
+if (!inIframe)&#xd;
+{&#xd;
+    //create and append iframe to keep this in our domain&#xd;
+    this.IframeDiv = document.createElement(&apos;DIV&apos;);&#xd;
+    InsightExpress.AddProps(this.IframeDiv.style,&#xd;
+    {&#xd;
+        width: &apos;0px&apos;,&#xd;
+        height: &apos;0px&apos;,&#xd;
+        border: &apos;none&apos;,&#xd;
+        background: &apos;none&apos;,&#xd;
+        zIndex: &apos;-1&apos;&#xd;
+    });&#xd;
+&#xd;
+    this.Iframe = document.createElement(&apos;IFRAME&apos;);&#xd;
+    this.Iframe.src = InsightExpress.Protocol + InsightExpress.DomainName + &apos;/adserver/PanelistPartner.aspx?iframe=true&amp;iframe=true&amp;PartnerID=92&amp;PanelistID=30047880&apos;;&#xd;
+    InsightExpress.AddProps(this.Iframe.style,&#xd;
+    {&#xd;
+        display: &apos;block&apos;,&#xd;
+        width: &apos;1px&apos;,&#xd;
+        height: &apos;1px&apos;,&#xd;
+        border: &apos;none&apos;,&#xd;
+        zIndex: &apos;-1&apos;&#xd;
+    });&#xd;
+    this.IframeDiv.appendChild(this.Iframe);&#xd;
+    document.body.appendChild(this.IframeDiv);&#xd;
+}&#xd;
+else &#xd;
+{&#xd;
+	&#xd;
+	InsightExpress.thisMovie = function(movieName) {&#xd;
+		 if (navigator.appName.indexOf(&quot;Microsoft&quot;) != -1) {&#xd;
+			 return window[movieName];&#xd;
+		 } else {&#xd;
+			 return document[movieName];&#xd;
+		 }&#xd;
+	}&#xd;
+&#xd;
+ &#xd;
+	&#xd;
+    InsightExpress.fscookie = function () {&#xd;
+    &#xd;
+        try&#xd;
+        {&#xd;
+            var swf = InsightExpress.thisMovie(&apos;theMediaPlayer&apos;);	&#xd;
+		    if (swf.length)&#xd;
+                swf = swf[0];&#xd;
+&#xd;
+            var getWorked = false;&#xd;
+            var setWorked = false;&#xd;
+            var dwid = &apos;1fcaebeb-57a1-46bc-8c6a-257f119db2fa&apos;;	&#xd;
+            var lsodwid = swf.get(&apos;dwid&apos;);&#xd;
+            getWorked = true;&#xd;
+            if (lsodwid &amp;&amp; lsodwid != dwid)&#xd;
+            {&#xd;
+                setTimeout(function() {&#xd;
+                    var img = new Image();&#xd;
+                    img.src = &apos;http://core.insightexpressai.com/adserver/ixpixel.gif?old=&apos; + lsodwid + &apos;&amp;new=&apos; + dwid;&#xd;
+                    }, 1000);&#xd;
+            }&#xd;
+            swf.set(&apos;dwid&apos;, dwid);&#xd;
+            setWorked = (dwid == swf.get(&apos;dwid&apos;));&#xd;
+            if (!setWorked)&#xd;
+                throw  &apos;set failed&apos;;&#xd;
+            &#xd;
+        }&#xd;
+        catch (ex)&#xd;
+        {&#xd;
+            setTimeout(function() {&#xd;
+                    var img = new Image();&#xd;
+                    img.src = &apos;http://ad.insightexpressai.com/adserver/LogEvent.aspx?PageName=PanelistPartner.aspx&amp;Event=&apos; + escape(ex) + &apos;,&apos; + escape(&apos;UA=&apos; + navigator.userAgent) + &apos;,&apos; + escape(&apos;GS=&apos; + getWorked + &apos;/&apos; + setWorked);&#xd;
+                    }, 1000);&#xd;
+        }&#xd;
+    }&#xd;
+    if (!document.getElementById(&apos;ix__insightexpress_flashcontent&apos;)) {&#xd;
+        var div = document.createElement(&apos;DIV&apos;);&#xd;
+        div.id = &quot;ix__insightexpress_flashcontent&quot;;&#xd;
+        document.getElementsByTagName(&apos;body&apos;)[0].appendChild(div);&#xd;
+	&#xd;
+    }&#xd;
+	&#xd;
+	var flashvars = {};&#xd;
+	var params = {allowScriptAccess : &apos;always&apos; };&#xd;
+	var attributes = {};&#xd;
+	attributes.id = &quot;ixswf&quot;;&#xd;
+	attributes.name = &quot;ixswf&quot;;&#xd;
+}&#xd;
+//&lt;/script&gt;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">
+	function miifp() { return &quot;undefined&quot;; }
+		</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">CWS	=&#x5;&#x0;&#x0;x&#x9c;}TénÛF&#x10;&#x9e;å&#x92;\&#x1e;º&#xf;Ú¦,Gi]&#x1f;&#x8a;ªÒmÿÄEÑ&quot;&gt;R&#x17;	&#x4;D	&#x12;&#x14;pÌ5µ´&#x98;P¤JR&#x8a;ý6y&#x93;¼&#x82;R ýÙWq&#x97;¢&#x1b;HÎ± 0&#x83;o¾ùv8³»&#x97; &#x9d;&#x1;&#x14;ß&#x2;ä&#x10;&#x1c;&#x96;&#x15;&#x0;8&#x10;®¯¯ßÕuî&quot;è;,`­=&#x80;wµ&#x7f;Å&#x14;à«&#x4;ÝÔü&#x8;r?&#x89;¼à&quot;çÆN&#x18;¾öØ&#x99;ëÓÜcê&#x5;O½&#x11;ó½&#x80;å9&#x10;&#xf;»&#x3;/&#x1e;ûôJ}&#x1c;N=và{ãµÅ&#x8c;ýÅ&#xc;9fÉ£~O&#x88;C5Ë&#xd;X&#x92;ë&#xf;iÄ&#x6;½óWÌId7¢#¶&apos;_Ìy$b&#x7f;NX&#x9c;hÏ&#x9e;&lt;z&#x92;¹â$f&#x91;&#x92;&#x86;C&#x87;úâ&#x80;&amp;te©&#x8c;ý&#xf;eÔ&#x96;ñþ8ò&#x12;¶¹&#xc;&#x1e;f6Ûü &#xc;&#x12;^,&#x8b;î,&#x93;N&#x82;&#x84;EÔI¼)Ë&#x88;&#x8d;/&#x88;¬g16eA&#x12;ï&#x1f;¥&amp;&#x8d;ÓÄ&#x19;²HÎ8Í[ú&#xf;¼dDÇ&#x87;&#x11;}CÏ}Ö\R8¹%!¹þ$&#x1e;&#x16;n8&#x97;¼²&#x80;úå£&#x1b;g^ªK&#x1d;¦Ò)õüT&#xe;ófét08 ¾&#x7f;N&#x9d;×&#x98;Ï &#x97;¥ÇWqÂFJ&#x9f;9&#x13;Þ&#x9b;+Ô®rNøæ$&#x88;S&#x84;&#x1d;&#x86;#Þ&#xe;}&#x8e;e¾÷&#x8a;ËÆNä&#x8d;&#x93;}ÏÝI®Æ,tw8ß»&#x18;&amp;G&#x97;ã&#x88;ÅñnëîÏ­íI0`.ïå`»µµÕZftÿ?&#x1f;»&#x9f;Áwv&#x7f;Ê&#x7;tê]Ð&#x84;=&#xd;ùð¥³&#x98;ù®t&#x14;Ea&#x84;X&#x81;ÿÍqzNúóJr&#x8b;ý*ÞjW~i8å&#x8f;Fi|ú&#x4;ÈÙi©&#x1b;ÈÀ&#x86;´J&#xc;m&#x5;K`&#x12;³jÖÌºi&#x98;+æª¹¦&#x98;JÃh&#x1a;_&#x1b;]¡@&#x90;,*ª¦çò&#x85;b©|&#x87; &#x81;&#x8;&quot;Á2A
+A*&#x91;t&quot;ç&#x8;Ê&#x13;T R&#x91; 2A&#x95;&#x6;&quot;h&#x9d;T6&#x8;âô»¤ºIÐ&#x16;AÛDÚ%è&#x1e;A&#x1d;&#x82;¾%h&#x8d;Ô¾#Ø&quot;x&#x8f;àï	þAN/&apos;Joª&#x0;7ë&#x83;&#x3;HÀ&#x8a;&#x8;¢$&quot;&#x10;$&#x0;&#x19;&#x8;&#x2;¬ @*&#x80;&#x96;Æ%$ð&#x98;Ì&#x5;T&#xd;Ï¬&#x87;&#x1c;Â&#x82;¦×gÖKÉ&#x96;;¥c&#x1d;&#xd;%[rsïÝüo\&#x19;cMo|&#x1c;ü&#x8b;æm©W&#x0;&#x9e;&#x8f;1ÖKÏgÖóöß&#x96;]tK&#x95;
+&#x80;]ì´l¥W&#x16;¸ó&#x95;-¦N¥óM¯&#x8a;æ¦&#x86;^ª§Zgçw&#xd;&#xd;ÕÓº­vÚ½ºP*&#x1;Ì¬÷Ö&#x1f;Ðþ§mÝ&#x1b;¡¦&quot;&lt;D÷&#x1f;&#x1c;&#x1b;+ b¤éÅ&#x99;5;&#x81;ÓÕM°IoUà[K&#x2;ÿ&#x8d;í&#x99;ÅÀ^³lÓ²&#x1b;&#x96;½nÙMËÞ°lÌ¿&#x17;ÐÌÖ0¥ÿRÝ&#x80;ì&#x8d;[|&#x9f;º&#x8b;ï&#x13;üÊ£ÿ&#x1;S¾h8</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">(function(){if (typeof MIIObj == &apos;undefined&apos;) MIIObj=new MIIScriptCtrl(); MIIObj.AddImage( &apos;https://bcp.crwdcntrl.net/map/c=6916/tp=1/tpid=131c84a5-14e4-4882-845b-c0bb8be89204&apos;); MIIObj.AddImage( &apos;https://sp.adbrn.com/match?syncid=gwi1_1c4d1489-89d6-4962-b12f-e21bcf40e2f8&amp;cid=131c84a5-14e4-4882-845b-c0bb8be89204&apos;); })();</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&#xd;
+&lt;!DOCTYPE html&gt;&#xd;
+&lt;html xmlns=&quot;http://www.w3.org/1999/html&quot;&gt;&#xd;
+&lt;head&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if(&quot;function&quot;==typeof __nr_require)return __nr_require;for(var o=0;o&lt;n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&amp;&amp;t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&amp;&amp;t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c&gt;u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i=&quot;nr@context&quot;,a=t(&quot;gos&quot;);e.exports=r()},{gos:&quot;7eSDFh&quot;}],ee:[function(t,e){e.exports=t(&quot;QJf3ax&quot;)},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t(&quot;handle&quot;),o=t(1),i=t(2);&quot;undefined&quot;==typeof window.newrelic&amp;&amp;(newrelic=window.NREUM);var a=[&quot;setPageViewName&quot;,&quot;addPageAction&quot;,&quot;setCustomAttribute&quot;,&quot;finished&quot;,&quot;addToTrace&quot;,&quot;inlineHit&quot;,&quot;noticeError&quot;];o(a,function(t,e){window.NREUM[e]=n(&quot;api-&quot;+e)}),e.exports=window.NREUM},{1:12,2:13,handle:&quot;D5DuLP&quot;}],gos:[function(t,e){e.exports=t(&quot;7eSDFh&quot;)},{}],&quot;7eSDFh&quot;:[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&amp;&amp;Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&amp;&amp;(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t(&quot;ee&quot;).create();e.exports=n,n.ee=r,r.q={}},{ee:&quot;QJf3ax&quot;}],handle:[function(t,e){e.exports=t(&quot;D5DuLP&quot;)},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||&quot;object&quot;!==e&amp;&amp;&quot;function&quot;!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o=&quot;nr@id&quot;,i=t(&quot;gos&quot;);e.exports=n},{gos:&quot;7eSDFh&quot;}],id:[function(t,e){e.exports=t(&quot;XL7HBI&quot;)},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName(&quot;script&quot;)[0];if(t&amp;&amp;t.licenseKey&amp;&amp;t.applicationID&amp;&amp;e){c(p,function(e,n){t[e]||(t[e]=n)});var n=&quot;https&quot;===s.split(&quot;:&quot;)[0]||t.sslForHttp;l.proto=n?&quot;https://&quot;:&quot;http://&quot;,a(&quot;mark&quot;,[&quot;onload&quot;,i()]);var r=f.createElement(&quot;script&quot;);r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){&quot;complete&quot;===f.readyState&amp;&amp;o()}function o(){a(&quot;mark&quot;,[&quot;domContent&quot;,i()])}function i(){return(new Date).getTime()}var a=t(&quot;handle&quot;),c=t(1),u=window,f=u.document;t(2);var s=(&quot;&quot;+location).split(&quot;?&quot;)[0],p={beacon:&quot;bam.nr-data.net&quot;,errorBeacon:&quot;bam.nr-data.net&quot;,agent:&quot;js-agent.newrelic.com/nr-852.min.js&quot;},d=window.XMLHttpRequest&amp;&amp;XMLHttpRequest.prototype&amp;&amp;XMLHttpRequest.prototype.addEventListener&amp;&amp;!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener(&quot;DOMContentLoaded&quot;,o,!1),u.addEventListener(&quot;load&quot;,n,!1)):(f.attachEvent(&quot;onreadystatechange&quot;,r),u.attachEvent(&quot;onload&quot;,n)),a(&quot;mark&quot;,[&quot;firstbyte&quot;,i()]);var v=0},{1:12,2:3,handle:&quot;D5DuLP&quot;}],loader:[function(t,e){e.exports=t(&quot;G9z0Bl&quot;)},{}],12:[function(t,e){function n(t,e){var n=[],o=&quot;&quot;,i=0;for(o in t)r.call(t,o)&amp;&amp;(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),&quot;undefined&quot;==typeof n&amp;&amp;(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0&gt;o?0:o);++r&lt;o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},[&quot;G9z0Bl&quot;]);&lt;/script&gt;&lt;/head&gt;&#xd;
+&lt;body&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;script type=&quot;text/javascript&quot;&gt;window.NREUM||(NREUM={});NREUM.info={&quot;beacon&quot;:&quot;bam.nr-data.net&quot;,&quot;licenseKey&quot;:&quot;3899bf9b6e&quot;,&quot;applicationID&quot;:&quot;11131674&quot;,&quot;transactionName&quot;:&quot;M1cEZRcHXkUDVxJeVgodM0MMSVdBPUcFaF0FRgduDQdeUg5RFBlJDEI=&quot;,&quot;queueTime&quot;:0,&quot;applicationTime&quot;:82,&quot;atts&quot;:&quot;HxAHE18dTUs=&quot;,&quot;errorBeacon&quot;:&quot;bam.nr-data.net&quot;,&quot;agent&quot;:&quot;&quot;}&lt;/script&gt;&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Apache Tomcat/8.0.12 - Error report&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}&lt;/style&gt; &lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 - Required String parameter &apos;cookieval&apos; is not present&lt;/h1&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;type&lt;/b&gt; Status report&lt;/p&gt;&lt;p&gt;&lt;b&gt;message&lt;/b&gt; &lt;u&gt;Required String parameter &apos;cookieval&apos; is not present&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;description&lt;/b&gt; &lt;u&gt;The request sent by the client was syntactically incorrect.&lt;/u&gt;&lt;/p&gt;&lt;hr class=&quot;line&quot;&gt;&lt;h3&gt;Apache Tomcat/8.0.12&lt;/h3&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+</httpSample>
+<httpSample>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;title&gt;Apache Tomcat/8.0.20 - Error report&lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}.line {height: 1px; background-color: #525D76; border: none;}&lt;/style&gt; &lt;/head&gt;&lt;body&gt;&lt;h1&gt;HTTP Status 400 - Required String parameter &apos;cookieval&apos; is not present&lt;/h1&gt;&lt;div class=&quot;line&quot;&gt;&lt;/div&gt;&lt;p&gt;&lt;b&gt;type&lt;/b&gt; Status report&lt;/p&gt;&lt;p&gt;&lt;b&gt;message&lt;/b&gt; &lt;u&gt;Required String parameter &apos;cookieval&apos; is not present&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;description&lt;/b&gt; &lt;u&gt;The request sent by the client was syntactically incorrect.&lt;/u&gt;&lt;/p&gt;&lt;hr class=&quot;line&quot;&gt;&lt;h3&gt;Apache Tomcat/8.0.20&lt;/h3&gt;&lt;/body&gt;&lt;/html&gt;</responseData>
+</httpSample>
+
+</testResults>
